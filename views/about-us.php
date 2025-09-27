@@ -222,17 +222,17 @@
     
 
         <?php
-$awards = [
-    ["year" => "2024", "title" => "Best Transporter in Safety", "company" => "Nigerian Breweries Limited"],
-    ["year" => "2024", "title" => "Green Transporter", "company" => "Total Energies"],
-    ["year" => "2023", "title" => "Best Transporter in Safety", "company" => "Nigeria Breweries Limited"],
-    ["year" => "2022", "title" => "Best Transporter in Safety", "company" => "Nigeria Breweries Limited"],
-    ["year" => "2021", "title" => "Safety Transport Service Provider", "company" => "Larfarge Holcim"],
-    ["year" => "2021", "title" => "Safety Champion Award", "company" => "Nigeria Breweries Limited"],
-    ["year" => "2019", "title" => "Logistics Company of the Year", "company" => "Nigeria Automotive Award"],
-    ["year" => "2019", "title" => "Operating Standards Award", "company" => "OVH Energy"],
-];
-?>
+            $awards = [
+                ["year" => "2024", "title" => "Best Transporter in Safety", "company" => "Nigerian Breweries Limited"],
+                ["year" => "2024", "title" => "Green Transporter", "company" => "Total Energies"],
+                ["year" => "2023", "title" => "Best Transporter in Safety", "company" => "Nigeria Breweries Limited"],
+                ["year" => "2022", "title" => "Best Transporter in Safety", "company" => "Nigeria Breweries Limited"],
+                ["year" => "2021", "title" => "Safety Transport Service Provider", "company" => "Larfarge Holcim"],
+                ["year" => "2021", "title" => "Safety Champion Award", "company" => "Nigeria Breweries Limited"],
+                ["year" => "2019", "title" => "Logistics Company of the Year", "company" => "Nigeria Automotive Award"],
+                ["year" => "2019", "title" => "Operating Standards Award", "company" => "OVH Energy"],
+            ];
+            ?>
 
 <section class="overlap-height">
     <div class="container overlap-gap-section">

@@ -41,7 +41,7 @@
                 <span class="alt-font text-uppercase fw-600 mb-15px d-inline-block ls-1px"></span>
                 <h3 class="alt-font fw-600 text-dark-gray ls-minus-1px shadow-none" data-shadow-animation="true" data-animation-delay="1500">Our  commitment to safety.</h3>
                 <p class="mb-35px sm-mb-25px">
-                    TSL has longstanding commitments to the highest standards of Health, Safety, Security, Environment, and Quality of service delivery. These commitments are aimed at achieving the ultimate goal of Zero Harm to People, No Damage to Assets, and No Adverse Impact on the Environment. As part of our dedication to road safety, we are ISO 39001 certified for Road Traffic Safety, demonstrating our commitment to international standards in managing road traffic safety risks. Our systematic approach to HSSEQ and Training management is designed to ensure compliance with Federal laws and International Standards, driving continuous performance improvement across our operations.
+                    TSL has longstanding commitments to the highest standards of Health, Safety, Security, Environment, and Quality of service delivery. These commitments are aimed at achieving the ultimate goal of Zero Harm to People, No Damage to Assets, and No Adverse Impact on the Environment. As part of our dedication to road safety, we are ISO 39001 certified for Road Traffic Safety, demonstrating our commitment to international standards in managing road traffic safety risks. Our systematic approach to HSEQ and Training management is designed to ensure compliance with Federal laws and International Standards, driving continuous performance improvement across our operations.
                 </p>                
             </div> 
         </div>
@@ -104,7 +104,7 @@
                         </div>
                         <div class="col-lg-6 ps-12 pe-14 xxl-ps-10 xxl-pe-10 xl-pe-8 lg-ps-6 lg-pe-4 md-p-50px sm-ps-30px sm-pe-30px position-relative align-self-center text-md-start text-center"> 
                             <h1 class="text-dark-gray alt-font fw-600 ls-minus-4px mb-25px">Why HSEQ management is important</h1>
-                            <p class="w-95 md-w-100 mb-35px">Managing HSE is crucial for business success. However, we must manage multiple business aspects and risks, and there is a limit to the resources available. Management is about priorities. It is critical therefore, that we require a structured and systematic approach to be able to set the right priorities.</p>
+                            <p class="w-95 md-w-100 mb-35px">Managing HSEQ is crucial for business success. However, we must manage multiple business aspects and risks, and there is a limit to the resources available. Management is about priorities. It is critical therefore, that we require a structured and systematic approach to be able to set the right priorities.</p>
                             <p class="w-95 md-w-100 mb-35px">A crucial aspect is the need for continuous learning. By applying the “plan - do - check - feedback” system, we are able to create a continuous improvement loop.   </p>
                         </div>
                     </div>

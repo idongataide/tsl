@@ -3,18 +3,14 @@
     <div class="container h-100">
         <div class="row align-items-center h-100">
             <div class="col-xl-9 col-md-9 col-sm-9 position-relative text-white" data-anime='{ "el": "childs", "opacity": [0, 1], "translateY": [30, 0], "staggervalue": 200, "easing": "easeInOutSine" }'>  
-                <div class="fs-70 lh-75 sm-fs-65 fw-600 mb-20px text-shadow-large ls-minus-2px">Drive with purpose</div> 
+                <div class="fs-60 lh-75 sm-fs-65 fw-600 mb-20px text-shadow-large ls-minus-2px">Drive with purpose</div> 
                 <div>
-                    <span class="opacity-5- fs-16 w-80 md-w-85 mb-25px fw-300 d-inline-block">At TSL, our drivers are the cornerstone of our commitment to delivering safe, reliable, and sustainable transportation solutions nationwide. We seek dedicated, skilled professionals who share our passion for ensuring the efficient movement of goods and materials across local, regional, and national routes—playing an essential role in the supply chain. <br/> 
-                        Joining our team means becoming part of a supportive work environment, benefiting from opportunities for professional growth, and making a meaningful impact every day.
-                    </span> 
+                    <span class="opacity-5- fs-16 w-80 md-w-85 mb-25px fw-300 d-inline-block">
+                        At TSL, our drivers are vital to delivering safe, reliable, and sustainable transport nationwide. We seek dedicated professionals to move goods efficiently across local and national routes. Joining us means growth, support, and making a meaningful impact every day.
+                    </span>
                 </div>
-                <div class="icon-with-text-style-08">
-                    <div class="feature-box feature-box-left-icon-middle">                       
-                        <div class="feature-box-content">
-                            <a href="<?php echo base_url(); ?>/careers/available_positions" class="btn btn-extra-large btn-primary fw-400">Search Positions</a>
-                        </div>
-                    </div> 
+                <div class="feature-box-content">
+                    <a href="<?php echo base_url(); ?>/careers/available_positions" class="btn btn-extra-large btn-primary fw-400">Search Positions</a>
                 </div>
             </div>
         </div> 
@@ -42,10 +38,10 @@
                         <div class="sliding-box-img overflow-hidden">
                             <img src="<?php echo base_url(); ?>/assets/img/careers/d1.webp" alt="" class="w-100">
                         </div>
-                        <div class="d-flex flex-column align-items-start justify-content-center sliding-box-content bg-very-light-gray p-10 xxl-p-8 xl-p-6 ">
+                        <div class="d-flex flex-column align-items-start justify-content-center sliding-box-content bg-very-light-gray p-10 xxl-p-5 xl-p-6 ">
                             <div class="content-hover w-100 last-paragraph-no-margin">
                                 <div class="fw-600 text-dark-gray lh-20 ls-minus-05px fs-16 mb-5px">Comprehensive Training Programs:</div>
-                                <p class="lh-20 text-grey fs-15 text-justify">Our drivers undergo rigorous training programs that include defensive driving, road safety, and technical skills to ensure every journey is safe and smooth. We equip each driver with the tools and knowledge needed to excel.</p>
+                                <p class="lh-20 text-grey fs-15 text-justify-">Our drivers undergo rigorous training programs that include defensive driving, road safety, and technical skills to ensure every journey is safe and smooth. We equip each driver with the tools and knowledge needed to excel.</p>
                             </div>
                         </div>
                     </div>
@@ -55,10 +51,10 @@
                         <div class="sliding-box-img overflow-hidden">
                             <img src="<?php echo base_url(); ?>/assets/img/careers/d2.webp" alt="" class="w-100">
                         </div>
-                        <div class="d-flex flex-column align-items-start justify-content-center sliding-box-content bg-very-light-gray p-40px xl-p-35px">
+                        <div class="d-flex flex-column align-items-start justify-content-center sliding-box-content bg-very-light-gray p-30px xl-p-35px">
                             <div class="content-hover w-100 last-paragraph-no-margin">
-                                <div class="fw-600 text-dark-gray lh-20 ls-minus-05px fs-16 mb-5px">Competitive Benefits and Career Development:</div>
-                                <p class="lh-20 text-grey fs-15 text-justify">We believe in taking care of our team, offering competitive salaries, health benefits, and pathways for growth within the company. As a driver at TSL, you will gain valuable experience and have access to career advancement opportunities.</p>
+                                <div class="fw-600 text-dark-gray lh-20 ls-minus-05px fs-16 mb-5px">Benefits and Career Development:</div>
+                                <p class="lh-20 text-grey fs-15 text-justify-">We believe in taking care of our team, offering competitive salaries, health benefits, and pathways for growth within the company. As a driver at TSL, you will gain valuable experience and have access to career advancement opportunities.</p>
                             </div>
                         </div>
                     </div>
@@ -68,10 +64,10 @@
                         <div class="sliding-box-img overflow-hidden">
                             <img src="<?php echo base_url(); ?>/assets/img/careers/d3.webp" alt="" class="w-100">
                         </div>
-                        <div class="d-flex flex-column align-items-start justify-content-center sliding-box-content bg-very-light-gray p-40px xl-p-35px">
+                        <div class="d-flex flex-column align-items-start justify-content-center sliding-box-content bg-very-light-gray p-30px xl-p-35px">
                             <div class="content-hover w-100 last-paragraph-no-margin">
                                 <div class="fw-600 text-dark-gray lh-20 ls-minus-05px fs-16 mb-5px">A Culture of Safety and Support:</div>
-                                <p class="lh-20 text-grey fs-15 text-justify">Safety is at the heart of everything we do. With a dedicated safety and security team, and policies designed to prioritise well-being, our drivers can count on the full support of our organisation, on and off the road.</p>
+                                <p class="lh-20 text-grey fs-15 text-justify-">Safety is at the heart of everything we do. With a dedicated safety and security team, and policies designed to prioritise well-being, our drivers can count on the full support of our organisation, on and off the road.</p>
                             </div>
                         </div>
                     </div>
@@ -90,7 +86,7 @@
                 <div class="row row-cols-1 row-cols-lg-2 bg-secondary border-radius-6px g-0 overflow-hidden mb-8" data-anime='{ "scale": [0.9, 1], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <div class="col cover-background md-h-550px sm-h-400px" style="background-image: url(<?php echo base_url(); ?>/assets/img/careers/d4.webp)"></div>
                     <div class="col pt-7 pb-7 ps-7 pe-7 xl-p-5">
-                        <h3 class="alt-font fw-500 text-white lh-48 ls-minus-1px"><span class="fw-700 lh-40">Women on Wheels</span> Empowering Women in Transport </h3>
+                        <h3 class="alt-font fw-500 text-white lh-48 ls-minus-1px"><span class="fw-700 lh-40">Safe Women on Wheels:</span> Empowering Women in Transport </h3>
                         <p class="mb-20px text-white">Our Women on Wheels initiative proudly reflects our dedication to fostering diversity and inclusion within the transport industry. This program celebrates and supports women aspiring to build fulfilling careers as professional drivers, contributing to the efficient and reliable transportation of goods across local, regional, and national routes—an integral part of the supply chain. Through tailored training, mentorship, and a strong, supportive community, Women on Wheels is designed to empower and prepare women for success behind the wheel.</p>
                         
                         <div class="d-inline-block mt-15px"> 
@@ -103,7 +99,7 @@
                 <div class="row align-items-center mb-8- sm-mb-50px justify-content-md-center"> 
                     <div class="col-xl-5 col-lg-6 col-md-12 md-mb-50px" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'> 
                         <span class="fs-16 lh-22 fw-700 mb-10px d-inline-block text-uppercase text-dark-gray border-bottom border-2 border-color-base-color">What We Offer through</span>
-                        <h2 class="text-dark-gray fw-700 mb-20px ls-minus-1px">Women on Wheels:</h2>
+                        <h3 class="text-dark-gray fw-700 mb-20px ls-minus-1px">Safe Women on Wheels:</h3>
                         <div class="row justify-content-center mb-25px">
                             <div class="col-12">
                                 <div class="accordion accordion-style-02" id="accordion-style-02" data-active-icon="icon-feather-minus" data-inactive-icon="icon-feather-plus">
