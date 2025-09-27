@@ -244,7 +244,7 @@
                         <p class="text-white opacity-6 md-w-75 xs-w-100 mx-auto text-lg-start text-center">If you’re passionate about driving, dedicated to safety, and ready to make a difference, we’d love to hear from you. Our team of drivers is growing; so whether you’re a seasoned professional or new to the industry, we have a place for you.</p>
                     </div>
                     <div class="col-xxl-3 col-lg-auto text-lg-end text-center md-mt-30px" style="">
-                        <a href="demo-elder-care-contact.html" class="btn btn-large btn-transparent-white-light left-icon d-inline-block btn-box-shadow btn-switch-text">
+                        <a href="<?php echo base_url(); ?>/contact" class="btn btn-large btn-transparent-white-light left-icon d-inline-block btn-box-shadow btn-switch-text">
                             <span>
                                 <span><i class="feather icon-mail"></i></span>
                                 <span class="btn-double-text" data-text="Get started">Get started</span>
