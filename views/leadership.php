@@ -34,7 +34,7 @@ $team_members = [
     ["name" => "Akorede Lemboye", "position" => "Head of Operations - FMCG", "delay" => "750", "link" => "{$base_url}/about/leaderships/13"],
     ["name" => "Jeremiah Ulori", "position" => "Head, Eastern Operations", "delay" => "800", "link" => "{$base_url}/about/leaderships/14"],
     ["name" => "Adepoju Ogunniyi", "position" => "Head, Strategy and Business Transformation", "delay" => "650", "link" => "{$base_url}/about/leaderships/11"],
-    ["name" => "Emmanuel Eze", "position" => "Head of Operations, Mining & Construction, West and Port Operations", "delay" => "700", "link" => "{$base_url}/about/leaderships/12"],
+    // ["name" => "Emmanuel Eze", "position" => "Head of Operations, Mining & Construction, West and Port Operations", "delay" => "700", "link" => "{$base_url}/about/leaderships/12"],
 ];
 
 ?>

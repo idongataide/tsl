@@ -12283,6 +12283,7 @@ blockquote footer {
   text-align: center;
   position: relative;
   z-index: 1;
+  min-height:250px
 }
 
 .feature-box.bgss{

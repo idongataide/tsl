@@ -3,7 +3,7 @@
 <div class="opacity-light gradient-black"></div>   
  <div class="container">
         <div class="row align-items-center small-screen">
-            <div class="col-lg-7 col-sm-12 position-relative page-title-extra-small">
+            <div class="col-lg-8 col-sm-12 position-relative page-title-extra-small">
                 <h1 class="mb-15px text-white opacity-7 fw-300 overflow-hidden">
                     <span class="d-inline-block" data-anime='{ "translateY": [30, 0], "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "staggervalue": 300 }'>About Us</span>
                 </h1>
@@ -221,82 +221,48 @@
 
     
 
-        <section class="overlap-height">
-            <div class="container overlap-gap-section">
-                <div class="row justify-content-center align-items-center mb-3 text-center">
-                    <div class="col-12" data-anime='{ "el": "childs", "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <h2 class="alt-font text-dark-gray fw-600 ls-minus-3px">Recent Awards</h2>
-                    </div>
-                </div>
-                <div class="row row-cols-1 row-cols-lg-3 row-cols-sm-2 gy-10 g-10 mb-5 xs-mb-40px" data-anime='{ "translateY": [30, 0], "perspective": [1200,1200], "scale": [1.1, 1], "rotateX": [50, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                   
-                    <div class="col icon-with-text-style-07 mb-3">
-                        <div class="hover-box dark-hover will-change-inherit feature-box p-15 xl-p-17 md-p-19 overflow-hidden border-top md-border-end border-start border-bottom border-color-extra-medium-gray">
-                            <div class="feature-box-icon">
-                                <span class="alt-font fw-600 fs-17 text-uppercase text-primary position-absolute right-25px top-20px lg-right-15px lg-top-10px">2023</span>
-                                <i class="fa fa-award icon-double-large text-dark-gray mb-20px"></i>
-                            </div>
-                            <div class="feature-box-content">
-                                <h5 class="lh-24 fs-18 text-teal mb-3 fw-600 d-block">Best Transporter in Safety</h5>
-                                <span class="fs-15 lh-24 text-dark-gray fw-500 d-block">Nigeria Breweries Limited</span>
-                            </div>
-                            <div class="feature-box-overlay feature-box-overlay2 bg-dark-gray"></div>
-                        </div>
-                    </div>
-                    <div class="col icon-with-text-style-07 mb-3">
-                        <div class="hover-box dark-hover will-change-inherit feature-box p-13 xl-p-17 md-p-19 overflow-hidden border-top md-border-end border-start border-bottom border-color-extra-medium-gray">
-                            <div class="feature-box-icon">
-                                <span class="alt-font fw-600 fs-17 text-uppercase text-primary position-absolute right-25px top-20px lg-right-15px lg-top-10px">2021</span>
-                                <i class="fa fa-award icon-double-large text-dark-gray mb-20px"></i>
-                            </div>
-                            <div class="feature-box-content">
-                                <h5 class="lh-24 fs-18 text-teal mb-3 fw-600 d-block">Safest Transport Service Provider</h5>
-                                <span class="fs-15 lh-24 text-dark-gray fw-500 d-block mb-4">Larfarge Holcim</span>
-                            </div>
-                            <div class="feature-box-overlay feature-box-overlay2 bg-dark-gray"></div>
-                        </div>
-                    </div>
-                    <div class="col icon-with-text-style-07 mb-3">
-                        <div class="hover-box dark-hover will-change-inherit feature-box p-15 xl-p-17 md-p-19 overflow-hidden border-top md-border-end border-start border-bottom border-color-extra-medium-gray">
-                            <div class="feature-box-icon">
-                                <span class="alt-font fw-600 fs-17 text-uppercase text-primary position-absolute right-25px top-20px lg-right-15px lg-top-10px">2021</span>
-                                <i class="fa fa-award icon-double-large text-dark-gray mb-20px"></i>
-                            </div>
-                            <div class="feature-box-content">
-                                <h5 class="lh-24 fs-18 text-teal mb-3 fw-600 d-block">Safety Champion Award</h5>
-                                <span class="fs-15 lh-24 text-dark-gray fw-500 d-block">Nigeria Breweries Limited</span>
-                            </div>
-                            <div class="feature-box-overlay feature-box-overlay2 bg-dark-gray"></div>
-                        </div>
-                    </div>
-                    <div class="col icon-with-text-style-07 mb-3-">
-                        <div class="hover-box dark-hover will-change-inherit feature-box p-15 xl-p-17 md-p-19 overflow-hidden border-top md-border-end border-start border-bottom border-color-extra-medium-gray">
-                            <div class="feature-box-icon">
-                                <span class="alt-font fw-600 fs-17 text-uppercase text-primary position-absolute right-25px top-20px lg-right-15px lg-top-10px">2019</span>
-                                <i class="fa fa-award icon-double-large text-dark-gray mb-20px"></i>
-                            </div>
-                            <div class="feature-box-content">
-                                <h5 class="lh-24 fs-18 text-teal mb-3 fw-600 d-block">Logistics Company of the Year</h5>
-                                <span class="fs-15 lh-24 text-dark-gray fw-500 d-block">Nigeria Automotive Industry Award</span>
-                            </div>
-                            <div class="feature-box-overlay feature-box-overlay2 bg-dark-gray"></div>
-                        </div>
-                    </div>
-                    <div class="col icon-with-text-style-07 mb-3-">
-                        <div class="hover-box dark-hover will-change-inherit feature-box p-15 xl-p-17 md-p-19 overflow-hidden border-top md-border-end border-start border-bottom border-color-extra-medium-gray">
-                            <div class="feature-box-icon">
-                                <span class="alt-font fw-600 fs-17 text-uppercase text-primary position-absolute right-25px top-20px lg-right-15px lg-top-10px">2019</span>
-                                <i class="fa fa-award icon-double-large text-dark-gray mb-20px"></i>
-                            </div>
-                            <div class="feature-box-content">
-                                <h5 class="lh-24 fs-18 text-teal mb-3 fw-600 d-block">Operating Standards Award</h5>
-                                <span class="fs-15 lh-24 text-dark-gray fw-500 d-block">OVH Energy</span>
-                            </div>
-                            <div class="feature-box-overlay feature-box-overlay2 bg-dark-gray"></div>
-                        </div>
-                    </div>
-                    
-                </div>
-               
+        <?php
+$awards = [
+    ["year" => "2024", "title" => "Best Transporter in Safety", "company" => "Nigerian Breweries Limited"],
+    ["year" => "2024", "title" => "Green Transporter", "company" => "Total Energies"],
+    ["year" => "2023", "title" => "Best Transporter in Safety", "company" => "Nigeria Breweries Limited"],
+    ["year" => "2022", "title" => "Best Transporter in Safety", "company" => "Nigeria Breweries Limited"],
+    ["year" => "2021", "title" => "Safety Transport Service Provider", "company" => "Larfarge Holcim"],
+    ["year" => "2021", "title" => "Safety Champion Award", "company" => "Nigeria Breweries Limited"],
+    ["year" => "2019", "title" => "Logistics Company of the Year", "company" => "Nigeria Automotive Award"],
+    ["year" => "2019", "title" => "Operating Standards Award", "company" => "OVH Energy"],
+];
+?>
+
+<section class="overlap-height">
+    <div class="container overlap-gap-section">
+        <div class="row justify-content-center align-items-center mb-3 text-center">
+            <div class="col-12" data-anime='{ "el": "childs", "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                <h4 class="alt-font text-dark-gray mb-15px fw-600 ls-minus-3px">Recent Awards</h4>
+                <p class="xl-w-100 md-w-80 sm-w-100 md-mx-auto">Over the years we have been recognized as leaders in our industry...</p>
             </div>
-        </section>
+        </div>
+        <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2 gy-10 g-10 mb-5 xs-mb-40px" 
+             data-anime='{ "translateY": [30, 0], "perspective": [1200,1200], "scale": [1.1, 1], "rotateX": [50, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
+             
+            <?php foreach ($awards as $award): ?>
+                <div class="col icon-with-text-style-07 mb-3">
+                    <div class="hover-box dark-hover will-change-inherit feature-box p-15 xl-p-17 md-p-19 overflow-hidden border-top md-border-end border-start border-end border-bottom border-color-extra-medium-gray">
+                        <div class="feature-box-icon">
+                            <span class="alt-font fw-600 fs-17 text-uppercase text-primary position-absolute right-25px top-20px lg-right-15px lg-top-10px">
+                                <?= $award['year'] ?>
+                            </span>
+                            <i class="fa fa-award icon-double-large text-dark-gray mb-20px"></i>
+                        </div>
+                        <div class="feature-box-content">
+                            <h5 class="lh-24 fs-18 text-teal mb-3 fw-600 d-block"><?= $award['title'] ?></h5>
+                            <span class="fs-15 lh-24 text-dark-gray fw-500 d-block"><?= $award['company'] ?></span>
+                        </div>
+                        <div class="feature-box-overlay feature-box-overlay2 bg-dark-gray"></div>
+                    </div>
+                </div>
+            <?php endforeach; ?>
+
+        </div>
+    </div>
+</section>
