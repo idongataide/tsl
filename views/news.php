@@ -1,4 +1,3 @@
-
     <section class="page-title-big-typography breadcrumbs bg-dark-gray ipad-top-space-margin cover-background md-py-0" style="background-image: url(<?php echo base_url(); ?>/assets/img/banner/breadcrumb/news.webp)"> 
        <div class="opacity-medium gradient-black"></div>   
          <div class="container">
@@ -14,7 +13,7 @@
             </div>
         </div>
     </section>
-
+  
     <section class="position-relative overlap-height">
         <div class="container overlap-gap-section">
             <div class="row mb-6 sm-mb-40px appear anime-complete">

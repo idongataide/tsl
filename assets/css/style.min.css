@@ -1364,12 +1364,19 @@ textarea:focus {
   z-index: 1;
 }
 
+.h-unset{
+  min-height: unset !important;
+}
+
 .abt  .hover-box .head{
-  margin-top: 300px;
+  margin-top: 220px;
+  line-height: 1.1em
 }
 
 .abt  .hover-box:hover .head {
-  margin-top: 0px;
+  margin-top: 80px;
+  font-size: 24px;
+  line-height: 26px
 }
 
 .abt .hover-box:hover figcaption{
@@ -1384,6 +1391,7 @@ textarea:focus {
     position: relative;
     font-size: 15px;
     transform: translateY(30px);
+    line-height: 1.2rem;
 }
 
 .abt .hover-box:hover .bg-gradient-dark-transparent{
@@ -1392,7 +1400,9 @@ textarea:focus {
 
 .abt  .hover-box:hover p {
   opacity: 1;
-  bottom: 20px;
+  bottom: 10px;
+  font-size: 15px;
+  top: -20px;
 }
 
 .hover-box * {
@@ -19517,3 +19527,6 @@ background-image: linear-gradient(to right, #009090, #008080, #44a181, #008080, 
   overflow: hidden;
 }
 
+.bottom30{
+  bottom: 30%;
+}

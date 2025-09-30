@@ -50,19 +50,19 @@
 </section>
 
 
-<section class="pt-4 overflow-hidden" id="bemore">
+<section class="pt-6 overflow-hidden" id="bemore">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-12">
-                <div class="border-radius-6px h-500px md-h-450px sm-h-350px d-flex align-items-end justify-content-center overflow-hidden cover-background skrollr-zoom  xs-pb-12" >
+            <div class="col-10">
+                <div class="border-radius-50px h-500px md-h-450px sm-h-350px d-flex align-items-end justify-content-center overflow-hidden cover-background skrollr-zoom  xs-pb-12" >
                     <video autoplay muted loop playsinline>
                         <source src="<?php echo base_url(); ?>/assets/img/careers/bemore.mp4" type="video/mp4">
                     </video>
                     <div class="opacity-medium bg-gradient-dark-transparent"></div>
-                    <div class="row justify-content-center position-absolute">
-                        <div class="col-11 col-md-7 pb-8 position-relative z-index-1 text-center text-lg-start md-mb-35px sm-mb-25px">
+                    <div class="row justify-content-center position-absolute bottom30">
+                        <div class="col-11 col-md-10 pb-8 position-relative z-index-1 text-center text-lg-start md-mb-35px sm-mb-25px">
                             <h4 class="alt-font text-white mb-0 fw-300 fancy-text-style-4">Click here to 
-                                <span class="fw-600" data-fancy-text='{ "effect": "rotate", "string": ["Be more"] }'></span>
+                                <span class="fw-600" data-fancy-text='{ "effect": "rotate", "string": ["Be More"] }'></span>
                             </h4> 
                         </div>
                         <div class="col-xl-5 col-lg-3 position-relative z-index-1 text-center animation-zoom">
@@ -87,7 +87,7 @@
             <div class="row">
                 <div class="col-lg-12" >
                     <div data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <span class="text-base-color fs-12 fw-600 ls-3px text-uppercase mb-5px d-block">Transport Service Limited</span>
+                        <span class="text-base-color fs-12 fw-600 ls-3px text-uppercase mb-5px d-block">Transport Services Limited</span>
                         <h4 class="text-dark-gray  fw-600 mb-20px">New paths. New possibilities.</h4>
                         <p class="mb-0">At TSL, we believe in the power of potential. We are more than just a company; we are a community dedicated to helping you 'Be More' in every aspect of life. Our purpose is to empower and inspire our employees' personal and professional growth throughout their careers."</p>
                     </div>
@@ -102,7 +102,7 @@
             <div class="stack-item-wrapper">
                 <div class="container-fluid">
                     <div class="row align-items-center full-screen md-h-auto"> 
-                        <div class="col-lg-6 cover-background overflow-visible h-100 md-h-500px" style="background-image: url('<?php echo base_url(); ?>/assets/img/careers/our-team.webp')">
+                        <div class="col-lg-6 cover-background overflow-visible h-100 md-h-500px" style="background-image: url('<?php echo base_url(); ?>/assets/img/careers/staffs.jpg')">
                             <div class="position-absolute right-minus-130px top-60px md-top-auto md-bottom-minus-50px fs-170 lg-fs-120 lg-right-minus-80px md-right-0px md-left-0px text-center text-lg-start alt-font z-index-9 fw-600 text-dark-gray opacity-3">01</div>
                             <div class="position-absolute right-0px bottom-minus-1px">
                                 <div class="vertical-title-center">
@@ -125,7 +125,7 @@
             <div class="stack-item-wrapper">
                 <div class="container-fluid">
                     <div class="row align-items-center full-screen md-h-auto"> 
-                        <div class="col-lg-6 cover-background overflow-visible h-100 md-h-500px" style="background-image: url('<?php echo base_url(); ?>/assets/img/careers/div.webp')">
+                        <div class="col-lg-6 cover-background overflow-visible h-100 md-h-500px" style="background-image: url('<?php echo base_url(); ?>/assets/img/careers/inclusion.jpg')">
                             <div class="position-absolute right-minus-130px top-60px md-top-auto md-bottom-minus-50px fs-170 lg-fs-120 lg-right-minus-80px md-right-0px md-left-0px text-center text-lg-start alt-font z-index-9 fw-600 text-dark-gray opacity-3">02</div>
                             <div class="position-absolute right-0px bottom-minus-1px">
                                 <div class="vertical-title-center">

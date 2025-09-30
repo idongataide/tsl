@@ -1,5 +1,5 @@
 
-<section class="page-title-big-typography breadcrumbs bg-dark-gray ipad-top-space-margin cover-background-2 md-py-0" style="background-image: url(<?php echo base_url(); ?>/assets/img/07.webp)"> 
+<section class="page-title-big-typography breadcrumbs bg-dark-gray ipad-top-space-margin cover-background md-py-0" style="background-image: url(<?php echo base_url(); ?>/assets/img/about/hero.png)"> 
 <div class="opacity-light gradient-black"></div>   
  <div class="container">
         <div class="row align-items-center small-screen">
@@ -19,7 +19,7 @@
         <div class="container">
             <div class="row align-items-center justify-content-center">                    
                 <div class="col-xl-6 col-lg-6 md-mb-50px text-center text-lg-start" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <span class="bg-solitude-blue text-uppercase fs-13 ps-25px pe-25px alt-font fw-600 text-base-color lh-40 sm-lh-55 border-radius-100px d-inline-block mb-25px">Transport Services Limited</span>
+                    <span class="bg-solitude-blue text-uppercase fs-13 pe-25px pe-25px alt-font fw-600 text-base-color lh-40 sm-lh-55 border-radius-100px d-inline-block mb-25px">Transport Services Limited</span>
                     <h3 class="alt-font text-dark-gray fw-600 ls-minus-1px" data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>We are driven by our vision to transform logistics in Africa</h3>
                     <p data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>The companies commenced with the incorporation of Transport Services Limited as a Limited Liability Company on September 8, 2001 and have today, metamorphosed into 2 independent companies...Transport Services Ltd & TSL Logistics.</p>
                 </div>
@@ -76,7 +76,7 @@
                     </div>
                 </div>
                 <div class="row align-items-center">
-                    <div class="col-12 position-relative">
+                    <div class="col-9 position-relative">
                         <div class="outside-box-right-40 xs-outside-box-right-0" data-anime='{ "translateX": [100, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                             <div class="swiper magic-cursor" data-slider-options='{ "slidesPerView": 1, "spaceBetween": 30, "loop": true, "autoplay": { "delay": 2000, "disableOnInteraction": false }, "pagination": { "el": ".slider-four-slide-pagination-1", "clickable": true }, "navigation": { "nextEl": ".slider-one-slide-next-1", "prevEl": ".slider-one-slide-prev-1" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1200": { "slidesPerView": 3.5 }, "992": { "slidesPerView": 3 }, "768": { "slidesPerView": 3 }, "576": { "slidesPerView": 2 } }, "effect": "slide" }'>
                                 <div class="swiper-wrapper abt">
@@ -85,12 +85,12 @@
                                         <div class="interactive-banner-style-08">
                                             <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
                                                 <a href="#">
-                                                    <img src="<?php echo base_url(); ?>/assets/img/about/1.webp" alt="">
+                                                    <img src="<?php echo base_url(); ?>/assets/img/about/leadership.png" alt="">
                                                 </a>
                                                 <figcaption class="d-flex flex-column align-items-start justify-content-start position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-12">
                                                    <div class="w-100">
                                                         <div class="col last-paragraph-no-margin">
-                                                            <a href="#" class="text-white fs-30 lh-40  d-block head">Experienced Leadership Team</a>
+                                                            <a href="#" class="text-white fs-30 lh-40  d-block head">Experienced <br/> Leadership Team</a>
                                                             <p class="text-white">TSL is led by a team of dynamic and highly effective leaders who have distinguished themselves in their respective fields as authentic enterprise leaders. In a fast-paced environment, they drive clear and sustainable business impact. Our leadership team serves as key connectors across the organization, playing a crucial role in enabling our business strategy and operating model.</p>
                                                         </div> 
                                                     </div>
@@ -105,7 +105,7 @@
                                         <div class="interactive-banner-style-08">
                                             <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
                                                 <a href="#">
-                                                   <img src="<?php echo base_url(); ?>/assets/img/about/2s.webp" alt="" class="border-radius-6px w-100">
+                                                   <img src="<?php echo base_url(); ?>/assets/img/careers/d2.webp" alt="" class="border-radius-6px w-100">
                                                 </a>
                                                 <figcaption class="d-flex flex-column align-items-start justify-content-start position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-10">
                                                     <div class="d-flex w-100 align-items-center">
@@ -125,12 +125,12 @@
                                         <div class="interactive-banner-style-08">
                                             <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
                                                 <a href="#">
-                                                    <img src="<?php echo base_url(); ?>/assets/img/about/3.webp" alt="" class="border-radius-6px w-100">
+                                                    <img src="<?php echo base_url(); ?>/assets/img/about/team.png" alt="" class="border-radius-6px w-100">
                                                 </a>
                                                 <figcaption class="d-flex flex-column align-items-start justify-content-start position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-10">
                                                     <div class="d-flex w-100 align-items-center">
                                                         <div class="col last-paragraph-no-margin">
-                                                            <a href="#" class="text-white fs-30 lh-40  d-block head">Vibrant Operations <br/> Team</a>
+                                                            <a href="#" class="text-white fs-30 lh-40  d-block head">Vibrant <br/> Operations  Team</a>
                                                         </div>
                                                     </div>
                                                     <div class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-dark-transparent z-index-minus-1 opacity-9"></div> 

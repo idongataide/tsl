@@ -6,7 +6,7 @@
             <div class="row align-items-center small-screen">
                 <div class="col-lg-12 col-sm-12 position-relative page-title-extra-small">
                     <h1 class="mb-15px text-white opacity-7 fw-300 overflow-hidden">
-                        <span class="d-inline-block" data-anime='{ "translateY": [30, 0], "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "staggervalue": 300 }'>Transport Limited Services</span>
+                        <span class="d-inline-block" data-anime='{ "translateY": [30, 0], "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "staggervalue": 300 }'>Transport Services Limited</span>
                     </h1>
                     <h2 class="m-auto pb-5px pt-5px t-light fw-600 ls-minus-1px overflow-hidden">
                         <span class="d-inline-block" data-anime='{ "translateY": [30, 0], "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "staggervalue": 300, "delay": 200 }'>Oil and Gas Transportation</span>
@@ -47,7 +47,7 @@
                         highly trained drivers, coupled with extensive technical training in hazardous materials handling,
                         ensure that safety is paramount in every aspect of our operations
                     </p>
-                    <img src="<?php echo base_url(); ?>/assets/img/service/4a.webp" class="mt-30px mb-30px md-mt-15px border-radius-6px" alt="">
+                    <img src="<?php echo base_url(); ?>/assets/img/service/oil_gas.jpg" class="mt-30px mb-30px md-mt-15px border-radius-6px" alt="">
                     <p data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         We leverage advanced In-Vehicle Monitoring Systems (IVMS) and a state-of-the-art journey
                         management system to provide real-time tracking, compliance with safety regulations, and

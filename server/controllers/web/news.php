@@ -30,8 +30,7 @@ class news extends ServerController
     $data['news'] = $decodedResponse['data'] ?? [];
     $data['menu_active'] = 'news'; 
     $this->loadView('news', @$data);
-    
-    
+        
   }
 
     public function news_details($id)

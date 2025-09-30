@@ -4,7 +4,7 @@
         <div class="row align-items-center small-screen">
             <div class="col-lg-7 col-sm-12 position-relative page-title-extra-small">
                 <h1 class="mb-15px text-white opacity-7 fw-300 overflow-hidden">
-                    <span class="d-inline-block" data-anime='{ "translateY": [30, 0], "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "staggervalue": 300 }'>Transport Service Limited</span>
+                    <span class="d-inline-block" data-anime='{ "translateY": [30, 0], "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "staggervalue": 300 }'>Transport Services Limited</span>
                 </h1>
                 <h2 class="m-auto pb-5px pt-5px text-white fw-600 ls-minus-1px overflow-hidden">
                     <span class="d-inline-block" data-anime='{ "translateY": [30, 0], "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "staggervalue": 300, "delay": 200 }'>Sustainability</span>
@@ -21,7 +21,7 @@
                 <div class="col-lg-7 col-12 md-mb-35px last-paragraph-no-margin" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <div class="mb-10px">
                         <span class="w-30px h-2px fs-15 d-inline-block bg-base-color me-5px align-middle"></span>
-                        <span class="text-uppercase text-base-color fs-16 fw-600 d-inline-block">Transport Service Limited</span>
+                        <span class="text-uppercase text-base-color fs-16 fw-600 d-inline-block">Transport Services Limited</span>
                     </div>
                     <h4 class="text-dark-gray fw-600 ls-minus-2px">Our commitment goes beyond operations</h4>
                     <p class="lg-w-100">We engage in community partnerships, promote fair labour practices, and uphold the highest standards of governance. As we strive for carbon neutrality and foster a regenerative future, we inspire positive change across our industry, driving a future where sustainability is a fundamental aspect of our business. Join us on this journey toward a resilient and thriving world.</p>
@@ -31,7 +31,7 @@
                         <div class="p-30px bg-very-light-green text-center">
                             <span class="fs-24 ls-minus-05px fw-600 text-dark-gray">Incorporation of Transport Services Limited as a Limited Liability Company on </span>
                         </div>
-                        <div class="feature-box feature-box-left-icon-middle bg-secondary p-8 overflow-hidden last-paragraph-no-margin">
+                        <div class="feature-box h-unset feature-box-left-icon-middle bg-secondary p-8 overflow-hidden last-paragraph-no-margin">
                             <div class="feature-box-icon me-15px">
                                 <img src="images/demo-green-energy-home-icon-01.webp" alt="">
                             </div>
@@ -51,7 +51,7 @@
             <div class="row">
                 <div class="col-lg-12" >
                     <div data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <span class="text-base-color fs-12 fw-600 ls-3px text-uppercase mb-5px d-block">Transport Service Limited</span>
+                        <span class="text-base-color fs-12 fw-600 ls-3px text-uppercase mb-5px d-block">Transport Services Limited</span>
                         <h4 class="text-dark-gray  fw-600 mb-20px">Our sustainability strategy</h4>
                         <p class="mb-0">At TSL, our sustainability strategy is built on three foundational pillars: Planet Positive, People Positive, and Prosperity Positive.
                            These pillars ensure that we are not only thriving today but also building resilience in a rapidly changing world, equipping our
