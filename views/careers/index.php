@@ -89,7 +89,7 @@
                     <div data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         <span class="text-base-color fs-12 fw-600 ls-3px text-uppercase mb-5px d-block">Transport Services Limited</span>
                         <h4 class="text-dark-gray  fw-600 mb-20px">New paths. New possibilities.</h4>
-                        <p class="mb-0">At TSL, we believe in the power of potential. We are more than just a company; we are a community dedicated to helping you 'Be More' in every aspect of life. Our purpose is to empower and inspire our employees' personal and professional growth throughout their careers."</p>
+                        <p class="mb-0">At TSL, we believe in the power of potential. We are more than just a company; we are a community dedicated to helping you <span class="text-primary"> 'Be More' </span> in every aspect of life. Our purpose is to empower and inspire our employees' personal and professional growth throughout their careers."</p>
                     </div>
                 </div>                    
             </div>
