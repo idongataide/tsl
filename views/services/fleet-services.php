@@ -21,22 +21,7 @@
             <div class="row">
                 <div class="col-lg-4 pe-5 order-2 order-lg-1 lg-pe-3 md-pe-15px" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                     <div class="position-sticky top-50px">
-                        <?php include 'sidebar.php'?>
-                        <div class="bg-very-light-gray border-radius-6px p-35px lg-p-25px md-p-35px xs-p-25px">
-                            <span class="fs-22 ls-minus-05px alt-font text-dark-gray fw-600 mb-20px d-inline-block">How can we help you?</span>
-                            <div class="contact-form-style-04">
-                                <!-- start contact form -->
-                                <form action="email-templates/contact-form.php" method="post">
-                                    <input class="box-shadow-double-large input-small mb-15px form-control required" type="text" name="name" placeholder="Your name*">
-                                    <input class="box-shadow-double-large input-small mb-15px form-control required" type="email" name="email" placeholder="Your email address*">
-                                    <textarea class="box-shadow-double-large input-small mb-15px form-control" name="comment" placeholder="Your message" rows="4"></textarea>
-                                    <input type="hidden" name="redirect" value="">
-                                    <button class="btn btn-small btn-round-edge btn-base-color btn-box-shadow submit w-100" type="submit">Send message</button>
-                                    <div class="form-results mt-20px d-none"></div>
-                                </form>
-                                <!-- end contact form -->  
-                            </div>
-                        </div>
+                        <?php include 'sidebar.php'?>                        
                     </div>
                 </div>
                 <div class="col-lg-8 order-1 order-lg-2 md-mb-50px" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
@@ -47,7 +32,7 @@
                         control over scheduling, routing, and load management, allowing for greater efficiency and consistency in
                         your supply chain.
                     </p>
-                    <img src="<?php echo base_url(); ?>/assets/img/08.webp" class="mt-30px mb-30px md-mt-15px border-radius-6px" alt="">
+                    <img src="<?php echo base_url(); ?>/assets/img/service/fleets.jpg" class="mt-30px mb-30px md-mt-15px border-radius-6px" alt="">
                     <h4 class="text-dark-gray fw-700 mb-40px lg-mb-30px d-block">Benefits of working with us</h4>
                     <div class="border border-color-extra-medium-gray border-radius-6px mb-40px xs-mb-30px overflow-hidden">
                         <p class="p-30px border-bottom border-1 border-color-extra-medium-gray mb-0"><span class="fw-600 text-dark-gray">Optimized Operations: </span>A fleet tailored to your unique requirements, ensuring timely deliveries and streamlined logistics.</p>

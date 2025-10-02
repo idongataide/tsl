@@ -127,57 +127,7 @@
                                     </div>
                                     <!-- end interactive banner item -->
                                 </div>
-                                <!-- end slider item -->
-                                <!-- start slider item -->
-                                <div class="swiper-slide">
-                                    <!-- start interactive banner item -->
-                                    <div class="col interactive-banner-style-08">
-                                        <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
-                                            <img src="<?php echo base_url(); ?>/assets/img/service/25.webp" alt="">
-                                            <figcaption class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-55px xl-p-30px">
-                                                 <a href="#">
-                                                    <img src="images/demo-lawyer-home-icon-02.webp" class="w-60px" alt="">
-                                                </a>
-                                                <div class="d-flex w-100 align-items-center mt-auto">
-                                                    <div class="col last-paragraph-no-margin">
-                                                        <h6 class="alt-font fw-500 fs-22 font-style-italic mb-0 w-80 xl-w-95"><a href="<?php echo base_url(); ?>/services/dryvan" class="text-white">Flatbed trucking</a></h6>
-                                                    </div>
-                                                    <a href="<?php echo base_url(); ?>/services/dryvan" class="circle-box bg-white w-55px h-55px rounded-circle ms-auto position-relative rounded-box">
-                                                        <i class="bi bi-arrow-right-short absolute-middle-center icon-very-medium lh-0px text-dark-gray"></i>
-                                                    </a>  
-                                                </div>
-                                                <div class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"></div> 
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                    <!-- end interactive banner item -->
-                                </div>
-                                <!-- end slider item --> 
-                                <!-- start slider item -->
-                                <div class="swiper-slide">
-                                    <!-- start interactive banner item -->
-                                    <div class="col interactive-banner-style-08">
-                                        <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
-                                            <img src="<?php echo base_url(); ?>/assets/img/service/21.webp" alt="">
-                                            <figcaption class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-55px xl-p-30px">
-                                                <a href="#">
-                                                    <img src="images/demo-lawyer-home-icon-02.webp" class="w-60px" alt="">
-                                                </a>
-                                                <div class="d-flex w-100 align-items-center mt-auto">
-                                                    <div class="col last-paragraph-no-margin">
-                                                        <h6 class="alt-font fw-500 fs-22 font-style-italic mb-0 w-80 xl-w-95"><a href="<?php echo base_url(); ?>/services/dryvan" class="text-white">Dry Van trucking</a></h6>
-                                                    </div>
-                                                    <a href="<?php echo base_url(); ?>/services/dryvan" class="circle-box bg-white w-55px h-55px rounded-circle ms-auto position-relative rounded-box">
-                                                        <i class="bi bi-arrow-right-short absolute-middle-center icon-very-medium lh-0px text-dark-gray"></i>
-                                                    </a>  
-                                                </div>
-                                                <div class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9"></div> 
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                    <!-- end interactive banner item -->
-                                </div>  
-                                <!-- start slider item -->
+                              
                                 <div class="swiper-slide">
                                     <!-- start interactive banner item -->
                                     <div class="col interactive-banner-style-08">

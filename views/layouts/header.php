@@ -69,10 +69,10 @@
                                     <a href="<?php echo base_url(); ?>/services" class="nav-link <?php echo $menu_active === 'services' ? 'active' : ''; ?>">What we do</a>
                                     <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
-                                        <li><a href="<?php echo base_url(); ?>/services/transport">Freight Transportation</a></li>
                                         <li><a href="<?php echo base_url(); ?>/services/oil_gas">Oil and Gas Transportation</a></li>
-                                        <li><a href="<?php echo base_url(); ?>/services/dryvan">Flatbed trucking</a></li>
-                                        <li><a href="<?php echo base_url(); ?>/services/dryvan">Dry Van trucking</a></li>
+                                        <li><a href="<?php echo base_url(); ?>/services/transport">Freight Transportation</a></li>
+                                        <!-- <li><a href="<?php echo base_url(); ?>/services/dryvan">Flatbed trucking</a></li> -->
+                                        <!-- <li><a href="<?php echo base_url(); ?>/services/dryvan">Dry Van trucking</a></li> -->
                                         <li><a href="<?php echo base_url(); ?>/services/freight">Freight Forwarding and Brokerage</a></li>  
                                         <li><a href="<?php echo base_url(); ?>/services/fleets">Dedicated Fleet services</a></li>
                                     </ul>
