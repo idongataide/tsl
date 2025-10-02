@@ -19,7 +19,7 @@
         <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/responsive.min.css">
         <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/demos/branding-agency/branding-agency.css">
         <style>
-            .nav-link.active {
+            .header-with-topbar .nav-link.active {
                 color: #a21615 !important;
                 font-weight: 600 !important;
             }

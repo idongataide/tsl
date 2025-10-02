@@ -10,7 +10,7 @@
             <img src="images/demo-data-analysis-bg-02.webp" data-bottom-top="transform: translateY(150px)" data-top-bottom="transform: translateY(-150px)" alt="">
         </div> 
         <div class="row align-items-center h-100 md-mt-50px">
-            <div class="col-xl-7 col-lg-7 mb-9 position-relative z-index-1" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>  
+            <div class="col-xl-7 col-lg-7 mb-9 mt-3 position-relative z-index-1" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>  
                 <div class="d-flex align-items-start align-items-sm-center alt-font mb-30px">
                     <div class="flex-shrink-0 primary-bg fw-600 text-white text-uppercase ps-20px pe-20px fs-12 me-15px border-radius-100px">TSL CAREER</div>
                     <!-- <span class="fs-18 fw-500" data-fancy-text='{ "effect": "rotate", "string": ["OUR VALUE PROPOSITION"], "speed": 50, "duration": 3500 }'></span>  -->
