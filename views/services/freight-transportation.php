@@ -42,6 +42,66 @@
                         dedicated to exceeding industry standards and providing exceptional value to
                         our customers.
                     </p>
+
+                            <p class="w-95 md-w-100">
+                                TSL offers a comprehensive range of transportation solutions—ensuring flexibility and reliability for various cargo types. Explore our services below:
+                            </p>
+
+                            <div class="row justify-content-center">
+                                <?php
+                                $services = [
+                                    [
+                                        'title' => 'Dry Van Trucking',
+                                        'image' => base_url() . '/assets/img/service/dryvan.jpg',
+                                        'desc'  => 'Provides secure, enclosed transport for goods that require protection from weather and external elements, such as containerized products, heavy sacks, and palletized freight.'
+                                    ],
+                                    [
+                                        'title' => 'Flatbed Trucking',
+                                        'image' => base_url() . '/assets/img/service/1.jpg',
+                                        'desc'  => 'Offers open-air transport for larger, irregularly shaped or oversized cargo, allowing easy loading and unloading.'
+                                    ],
+                                    [
+                                        'title' => 'Side Body & Tautliners',
+                                        'image' => base_url() . '/assets/img/services/tautliners.jpg',
+                                        'desc'  => 'Deliver versatile options for general cargo, combining accessibility and protection with flexible side-loading capabilities.'
+                                    ],
+                                    [
+                                        'title' => 'Temperature-Controlled Transport',
+                                        'image' => base_url() . '/assets/img/services/temperature.jpg',
+                                        'desc'  => 'Maintains optimal conditions for perishable and sensitive goods, ensuring freshness and integrity from origin to destination.'
+                                    ],
+                                ];
+
+                                foreach ($services as $service) {
+                                ?>
+                                <div class="col-12 col-lg-6 blog-standard md-mb-50px sm-mb-40px pe-25px lg-pe-15px" 
+                                    data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                                    <div class="col-12 mb-3">
+                                        <div class="card border-0 no-border-radius box-shadow-double-large">
+                                            <div class="blog-image">
+                                                <img class="w-100" src="<?=$service['image']?>" alt="<?=$service['title']?>">
+                                            </div>
+                                            <div class="card-body p-10 bg-white sm-p-8 last-paragraph-no-margin">
+                                                <a href="#" class="text-dark-gray card-title mb-20px alt-font fw-600 fs-22 lh-32 d-block">
+                                                    <?=$service['title']?>
+                                                </a>
+                                                <p><?=$service['desc']?></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <?php } ?>
+                            </div>
+
+                            <div class="row mt-5">
+                                <div class="col-12 text-center">
+                                    <p class="w-95 mx-auto">
+                                        All services are supported by advanced logistics technology, optimizing routes for 
+                                        <strong>“Safely On Time and In Full” (SOTIF)</strong> deliveries. 
+                                        Our highly trained drivers ensure that every shipment—whether enclosed, open, heavy-duty, or temperature-sensitive—reaches its destination securely and efficiently.
+                                    </p>
+                                </div>
+                            </div>
                 </div>
             </div>
         </div> 
