@@ -1,6 +1,6 @@
 
 
-<section class="page-title-big-typography breadcrumbs bg-dark-gray ipad-top-space-margin cover-background md-py-0" style="background-image: url(<?php echo base_url(); ?>/assets/img/banner/breadcrumb/gallery_1.webp)"> 
+<section class="page-title-big-typography breadcrumbs bg-dark-gray ipad-top-space-margin cover-background md-py-0" style="background-image: url(<?php echo base_url(); ?>/assets/img/banner/breadcrumb/gallery.jpg)"> 
  <div class="opacity-light gradient-black"></div>   
     <div class="container">
         <div class="row align-items-center small-screen">
