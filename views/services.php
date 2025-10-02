@@ -68,7 +68,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-4 md-mb-40px text-center text-lg-start" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'> 
-                    <span class="fs-20 text-base-color mb-10px d-block">Transport Service Limited</span>
+                    <span class="fs-20 text-base-color mb-10px d-block">Transport Services Limited</span>
                     <h3 class="alt-font text-white mb-55px md-mb-40px ls-minus-1px"> Discover a range of services<span class="fw-600 font-style-italic text-decoration-line-bottom-medium"> tailored to </span> <span class="fw-600 font-style-italic text-decoration-line-bottom-medium-">meet your unique needs.</span></h3>
                     <div class="d-flex justify-content-center justify-content-lg-start">
                         <!-- start slider navigation -->
@@ -264,7 +264,7 @@
                             <div class="swiper-wrapper align-items-center">
                            
                                 <div class="swiper-slide border-radius-6px overflow-hidden">
-                                    <img class="w-100" src="<?php echo base_url(); ?>/assets/img/07x.webp" alt="">
+                                    <img class="w-100" src="<?php echo base_url(); ?>/assets/img/service/1.jpg" alt="">
                                 </div>
                                 <!-- end carousal item -->
                                 <!-- start carousal item --> 
