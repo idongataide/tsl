@@ -11,8 +11,11 @@
                 <a href="javascript:history.back()" class="btn btn-sm btn-primary fw-400 mt-5">Go Back</a>
             </div>
             <div class="col-md-8">
-                <div class="outside-box-right-20 sm-outside-box-left-20 h-100 sm-h-300px xs-h-250px cover-background" style="background-image: url('<?php echo base_url(); ?>/assets/img/dept.webp');"></div>
+                <div class="outside-box-right-20 sm-outside-box-left-20 h-100 sm-h-300px xs-h-250px contain-background" 
+                    style="background-image: url('<?=$dept['image']?>');">
+                </div>
             </div>
+
         </div>
     </div>
 </section>
