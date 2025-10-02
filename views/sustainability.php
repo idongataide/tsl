@@ -29,7 +29,7 @@
                 <div class="col-xl-4 col-lg-5 offset-xl-1- col-12">
                     <div class="border-radius-10px overflow-hidden" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         <div class="p-30px bg-very-light-green text-center">
-                            <span class="fs-24 ls-minus-05px fw-600 text-dark-gray">Incorporation of Transport Services Limited as a Limited Liability Company on </span>
+                            <span class="fs-20 ls-minus-05px fw-600 text-dark-gray">Incorporation of Transport Services Limited as a Limited Liability Company on </span>
                         </div>
                         <div class="feature-box h-unset feature-box-left-icon-middle bg-secondary p-8 overflow-hidden last-paragraph-no-margin">
                             <div class="feature-box-icon me-15px">
