@@ -1,15 +1,9 @@
 <div class="mb-30px">
     <ul class="p-0 m-0 list-style-02">
-        <li class="pb-15px mb-15px border-bottom border-color-extra-medium-gray align-items-center"><a href="<?php echo base_url(); ?>/services/transport">Freight Transportation</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
         <li class="pb-15px mb-15px border-bottom border-color-extra-medium-gray align-items-center text-dark-gray"><a href="<?php echo base_url(); ?>/services/oil_gas" class="text-dark-gray text-dark-gray-hover">Oil and Gas Transportation</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
-        <li class="pb-15px mb-15px border-bottom border-color-extra-medium-gray align-items-center"><a href="<?php echo base_url(); ?>/services/dryvan">Flatbed trucking</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
-        <li class="pb-15px mb-15px border-bottom border-color-extra-medium-gray align-items-center"><a href="<?php echo base_url(); ?>/services/dryvan">Dry Van trucking</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
+        <li class="pb-15px mb-15px border-bottom border-color-extra-medium-gray align-items-center"><a href="<?php echo base_url(); ?>/services/transport">Freight Transportation</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
         <li class="pb-15px mb-15px border-bottom border-color-extra-medium-gray align-items-center"><a href="<?php echo base_url(); ?>/services/freight">Freight Forwarding and Brokerage</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
         <li class="pb-15px mb-15px border-bottom border-color-extra-medium-gray align-items-center"><a href="<?php echo base_url(); ?>/services/fleets">Dedicated Fleet services</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
-        <!-- <li class="pb-15px mb-15px border-bottom border-color-extra-medium-gray align-items-center"><a href="<?php echo base_url(); ?>/services/bus_charter">Intermodal Transportation</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
-        <li class="pb-15px mb-15px border-bottom border-color-extra-medium-gray align-items-center"><a href="<?php echo base_url(); ?>/services/bus_charter">GPS Tracking and Fleet Management</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
-        <li class="pb-15px mb-15px border-bottom border-color-extra-medium-gray align-items-center"><a href="<?php echo base_url(); ?>/services/bus_charter">Route Optimization and Planning</a><i class="feather icon-feather-arrow-right ms-auto"></i></li>
-        <li class="pb-15px mb-15px border-bottom border-color-extra-medium-gray align-items-center"><a href="<?php echo base_url(); ?>/services/bus_charter">Tracking and Fleet Management</a><i class="feather icon-feather-arrow-right ms-auto"></i></li> -->
     </ul>
 </div>
 
