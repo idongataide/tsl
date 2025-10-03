@@ -9,7 +9,7 @@ class news extends ServerController
     public function index() {
     $curl = curl_init();
     curl_setopt_array($curl, [
-        CURLOPT_URL => 'https://tlsapi.ufainiibom.com/api/news',
+        CURLOPT_URL => 'https://tslapi.ufainiibom.com/api/news',
         CURLOPT_RETURNTRANSFER => true,
         CURLOPT_CUSTOMREQUEST => 'GET',
         CURLOPT_HTTPHEADER => [
@@ -37,7 +37,7 @@ class news extends ServerController
     {
         $curl = curl_init();
         curl_setopt_array($curl, [
-            CURLOPT_URL => 'https://tlsapi.ufainiibom.com/api/news/'.$id,
+            CURLOPT_URL => 'https://tslapi.ufainiibom.com/api/news/'.$id,
             CURLOPT_RETURNTRANSFER => true,
             CURLOPT_CUSTOMREQUEST => 'GET',
             CURLOPT_HTTPHEADER => [
