@@ -103,7 +103,7 @@
                                             </ul>
                                             <ul class="col">  
                                                 <li class="sub-title">Discover your ideal career</li>
-                                                <li><a href="<?php echo base_url(); ?>/careers/discover_careers" class="<?php echo $career_menu_active === 'discover_careers' ? 'active' : ''; ?>">Experienced Hires</a></li>                                             
+                                                <li><a href="<?php echo base_url(); ?>/careers/discover_careers" class="<?php echo $career_menu_active === 'discover_careers' ? 'active' : ''; ?>">Join our Team</a></li>                                             
                                                 <li><a href="#" class="<?php echo $career_menu_active === 'tips' ? 'active' : ''; ?>">Tips to apply</a></li>                                             
                                             </ul>
                                             <ul class="col">  

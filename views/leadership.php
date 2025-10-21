@@ -1,6 +1,6 @@
 
 
-<section class="page-title-big-typography breadcrumbs bg-dark-gray ipad-top-space-margin cover-background md-py-0" style="background-image: url(<?php echo base_url(); ?>/assets/img/banner/breadcrumb/leadership1.webp)"> 
+<section class="page-title-big-typography breadcrumbs bg-dark-gray ipad-top-space-margin cover-background md-py-0" style="background-image: url(<?php echo base_url(); ?>/assets/img/banner/breadcrumb/leadership.webp)"> 
  <div class="opacity-light gradient-black"></div>   
     <div class="container">
         <div class="row align-items-center small-screen">
@@ -24,9 +24,9 @@ $team_members = [
     ["name" => "Deji Wright", "position" => "MD/CEO", "delay" => "100", "link" => "{$base_url}/about/leaderships/1"],
     // ["name" => "Ibitayo Edunfunke", "position" => "Group Head, HSSEQ", "delay" => "200", "link" => "{$base_url}/about/leaderships/2"],
     // ["name" => "Atinuke A-Badiru", "position" => "Group Chief Financial Officer", "delay" => "250", "link" => "{$base_url}/about/leaderships/3"],
+    ["name" => "Idris Akinsanya", "position" => "Chief Operating Officer", "delay" => "400", "link" => "{$base_url}/about/leaderships/6"],
     ["name" => "Kelechi Vera Olawoyin", "position" => "Chief Sustainability Officer", "delay" => "300", "link" => "{$base_url}/about/leaderships/4"],
     // ["name" => "Yetunde Adewale", "position" => "Group Head, Legal", "delay" => "350", "link" => "{$base_url}/about/leaderships/5"],
-    ["name" => "Idris Akinsanya", "position" => "Chief Operating Officer", "delay" => "400", "link" => "{$base_url}/about/leaderships/6"],
     ["name" => "Goodluck Adiele", "position" => "Head, Drivers Administration", "delay" => "450", "link" => "{$base_url}/about/leaderships/7"],
     // ["name" => "Abiodun Ope-Adesanya", "position" => "Group Head HR & Admin", "delay" => "500", "link" => "{$base_url}/about/leaderships/8"],
     // ["name" => "Bolaji Daisi", "position" => "Group Head, Supply Chain", "delay" => "550", "link" => "{$base_url}/about/leaderships/9"],
