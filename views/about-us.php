@@ -156,7 +156,7 @@
                                                     </div>
                                                     
                                                     <div class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-dark-transparent z-index-minus-1 opacity-9"></div> 
-                                                    <p class="text-white">We are committed to excellence in corporate governance. Guided by a diverse and independent board, we prioritize transparency, ethical leadership, and rigorous risk management. Our financials, audited by Ernst & Young since 2008, reflect our dedication to integrity. Through strong internal controls, stakeholder engagement, and a focus on sustainability.</p>
+                                                    <p class="text-white">We are committed to excellence in corporate governance. Guided by a diverse and independent board, we prioritize transparency, ethical leadership, and rigorous risk management. Our financials, audited by on of the big fours since 2008, reflect our dedication to integrity. Through strong internal controls, stakeholder engagement, and a focus on sustainability.</p>
                                                 </figcaption>
                                             </figure>
                                         </div>
