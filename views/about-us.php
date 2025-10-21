@@ -125,7 +125,7 @@
                                         <div class="interactive-banner-style-08">
                                             <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
                                                 <a href="#">
-                                                    <img src="<?php echo base_url(); ?>/assets/img/about/team.png" alt="" class="border-radius-6px w-100">
+                                                    <img src="<?php echo base_url(); ?>/assets/img/about/team.jpg" alt="" class="border-radius-6px w-100">
                                                 </a>
                                                 <figcaption class="d-flex flex-column align-items-start justify-content-start position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-10">
                                                     <div class="d-flex w-100 align-items-center">
@@ -146,7 +146,7 @@
                                         <div class="interactive-banner-style-08">
                                             <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
                                                 <a href="#">
-                                                    <img src="<?php echo base_url(); ?>/assets/img/about/4.webp" alt="" class="border-radius-6px w-100">
+                                                    <img src="<?php echo base_url(); ?>/assets/img/about/4.jpg" alt="" class="border-radius-6px w-100">
                                                 </a>
                                                 <figcaption class="d-flex flex-column align-items-start justify-content-start position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-10">
                                                     <div class="d-flex w-100 align-items-center">
@@ -187,7 +187,7 @@
                 <div class="row justify-content-center g-0" data-anime='{ "el": "childs", "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                      <div class="col-12 position-relative">
                     <div class="overflow-hidden-" data-anime='{ "translateX": [100, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                        <div class="swiper magic-cursor" data-slider-options='{ "slidesPerView": 1, "spaceBetween": 28, "loop": true, "autoplay": { "delay": 2000, "disableOnInteraction": false }, "pagination": { "el": ".slider-four-slide-pagination-1", "clickable": true }, "navigation": { "nextEl": ".slider-one-slide-next-02", "prevEl": ".slider-one-slide-prev-02" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1200": { "slidesPerView": 3 }, "992": { "slidesPerView": 2 }, "768": { "slidesPerView": 2 }, "576": { "slidesPerView": 2 } }, "effect": "slide" }'>
+                        <div class="swiper magic-cursor" data-slider-options='{ "slidesPerView": 1, "spaceBetween": 28, "loop": true, "autoplay": { "delay": 2000, "disableOnInteraction": false }, "pagination": { "el": ".slider-four-slide-pagination-1", "clickable": true }, "navigation": { "nextEl": ".slider-one-slide-next-02", "prevEl": ".slider-one-slide-prev-02" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1200": { "slidesPerView": 2 }, "992": { "slidesPerView": 2 }, "768": { "slidesPerView": 2 }, "576": { "slidesPerView": 2 } }, "effect": "slide" }'>
                             <div class="swiper-wrapper">
                                 <!-- start content carousal item --> 
                                 <?php
