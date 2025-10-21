@@ -252,7 +252,7 @@
                             <span class="alt-font fw-600 fs-17 text-uppercase text-primary position-absolute right-25px top-20px lg-right-15px lg-top-10px">
                                 <?= $award['year'] ?>
                             </span>
-                            <i class="fa fa-award icon-double-large text-dark-gray mb-20px"></i>
+                            <img class="w-30 mb-5" src="<?php echo base_url(); ?>/assets/img/award.png" alt="">
                         </div>
                         <div class="feature-box-content">
                             <h5 class="lh-24 fs-18 text-teal mb-3 fw-600 d-block"><?= $award['title'] ?></h5>

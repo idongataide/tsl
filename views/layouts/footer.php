@@ -22,10 +22,10 @@
                     <div class="col-lg-3 col-md-3 col-sm-5 offset-xl-1 offset-md-0 offset-sm-1 md-mb-30px">
                         <span class="fs-16 d-block text-white fw-500 mb-10px">What we do</span>
                         <ul>
-                            <li><a href="<?php echo base_url(); ?>/services/transport">Freight Transportation</a></li>
                             <li><a href="<?php echo base_url(); ?>/services/oil_gas">Oil and Gas Transportation</a></li>
-                            <li><a href="<?php echo base_url(); ?>/services/dryvan">Flatbed trucking</a></li>
-                            <li><a href="<?php echo base_url(); ?>/services/dryvan">Dry Van trucking</a></li>
+                            <li><a href="<?php echo base_url(); ?>/services/transport">Freight Transportation</a></li>
+                            <!-- <li><a href="<?php echo base_url(); ?>/services/dryvan">Flatbed trucking</a></li> -->
+                            <!-- <li><a href="<?php echo base_url(); ?>/services/dryvan">Dry Van trucking</a></li> -->
                             <li><a href="<?php echo base_url(); ?>/services/freight">Freight Forwarding and Brokerage</a></li>  
                             <li><a href="<?php echo base_url(); ?>/services/fleets">Dedicated Fleet services</a></li>
                         </ul>
