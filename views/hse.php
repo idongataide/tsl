@@ -1,11 +1,11 @@
-<section class="page-title-big-typography  breadcrumbs bg-dark-gray ipad-top-space-margin cover-background md-py-0" style="background-image: url(<?php echo base_url(); ?>/assets/img/banner/breadcrumb/safety.webp)"> 
+<section class="page-title-big-typography  breadcrumbs bg-dark-gray ipad-top-space-margin cover-background md-py-0" style="background-image: url(<?php echo base_url(); ?>/assets/img/banner/breadcrumb/hse.jpg)"> 
  <div class="opacity-light gradient-black"></div>   
  <div class="container">
         <div class="row align-items-center small-screen">
             <div class="col-lg-7 col-sm-12 position-relative page-title-extra-small">
                 <img class="w-25- mb-10px" src="<?php echo base_url(); ?>/assets/img/iso.webp" alt="">
                 <h1 class="mb-10px text-white opacity-7 fw-300 overflow-hidden">
-                    <span class="d-inline-block" data-anime='{ "translateY": [30, 0], "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "staggervalue": 300 }'>Transport Limited Services</span>
+                    <span class="d-inline-block" data-anime='{ "translateY": [30, 0], "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "staggervalue": 300 }'>Transport Services Limited</span>
                 </h1>
                 <h2 class="m-auto pb-5px pt-5px text-white fw-600 ls-minus-1px overflow-hidden">
                     <span class="d-inline-block" data-anime='{ "translateY": [30, 0], "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "staggervalue": 300, "delay": 200 }'>Health and Safety</span>
