@@ -5,12 +5,12 @@
 <section class="ipad-top-space-margin overflow-hidden bg-very-light-gray p-0 page-title-big-typography">
     <div class="container">
         <div class="row justify-content-center one-half-screen overflow-visible">
-            <div class="col-md-4 d-flex flex-column justify-content-center align-items-center align-items-md-start text-center text-md-start page-title-extra-small sm-pt-50px sm-pb-50px" data-anime='{ "el": "childs", "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
+            <div class="col-md-5 d-flex flex-column justify-content-center align-items-center align-items-md-start text-center text-md-start page-title-extra-small sm-pt-50px sm-pb-50px" data-anime='{ "el": "childs", "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
                 <h1 class="ls-0px fw-600 text-dark-gray d-inline-block text-decoration-line-bottom-medium border-color-base-color mb-25px">TSL Career</h1>
                 <span class="text-dark-gray fs-50 md-fs-45 sm-fs-70 fw-700 ls-minus-1px xs-ms-0 fancy-text-style-4"> <?= $dept['name']?>  </span>
                 <a href="javascript:history.back()" class="btn btn-sm btn-primary fw-400 mt-5">Go Back</a>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-7">
                 <div class="outside-box-right-20 sm-outside-box-left-20 h-100 sm-h-300px xs-h-250px contain-background" 
                     style="background-image: url('<?=$dept['image']?>');">
                 </div>
