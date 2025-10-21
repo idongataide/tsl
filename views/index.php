@@ -210,7 +210,7 @@
 
 
        
-        <?php include 'layouts/core-values.php'?> 
+        <!-- <?php include 'layouts/core-values.php'?>  -->
 
         <section class="bg-cultured position-relative overflow-hidden p-0 mt-5">  
             <div class="row justify-content-center mb-3">
