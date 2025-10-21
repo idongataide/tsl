@@ -21,7 +21,7 @@
                 <div class="col-xl-6 col-lg-6 md-mb-50px text-center text-lg-start" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="bg-solitude-blue text-uppercase fs-13 pe-25px pe-25px alt-font fw-600 text-base-color lh-40 sm-lh-55 border-radius-100px d-inline-block mb-25px">Transport Services Limited</span>
                     <h3 class="alt-font text-dark-gray fw-600 ls-minus-1px" data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>We are driven by our vision to transform logistics in Africa</h3>
-                    <p data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>TSL commenced with the incorporation of Transport Services Limited as a Limited Liability Company on September 8, 2001 and have today, metamorphosed into two independent companies... Transport Services Limited and TSL Logistics Limited.</p>
+                    <p data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>TSL commenced with the incorporation of Transport Services Limited as a Limited Liability Company on September 8, 2001 and have today, metamorphosed into two independent companies... Transport Services Limited and  <a href="https://tsllogisticsltd.com/" target="_blank"> TSL Logistics Limited.</a></p>
                 </div>
                 <div class="col-xl-5 col-lg-6 offset-xl-1 position-relative">
                     <div class="accordion pricing-table-style-04" id="accordion-style-01" data-active-icon="fa-angle-up" data-inactive-icon="fa-angle-down" data-anime='{"el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
@@ -84,13 +84,13 @@
                                     <div class="swiper-slide"> 
                                         <div class="interactive-banner-style-08">
                                             <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
-                                                <a href="#">
+                                                <a href="<?php echo base_url(); ?>/about/leadership">
                                                     <img src="<?php echo base_url(); ?>/assets/img/about/leadership.png" alt="">
                                                 </a>
                                                 <figcaption class="d-flex flex-column align-items-start justify-content-start position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-12">
                                                    <div class="w-100">
                                                         <div class="col last-paragraph-no-margin">
-                                                            <a href="#" class="text-white fs-30 lh-40  d-block head">Experienced <br/> Leadership Team</a>
+                                                            <a href="<?php echo base_url(); ?>/about/leadership" class="text-white fs-30 lh-40  d-block head">Experienced <br/> Leadership Team</a>
                                                             <p class="text-white">TSL is led by a team of dynamic and highly effective leaders who have distinguished themselves in their respective fields as authentic enterprise leaders. In a fast-paced environment, they drive clear and sustainable business impact. Our leadership team serves as key connectors across the organization, playing a crucial role in enabling our business strategy and operating model.</p>
                                                         </div> 
                                                     </div>
@@ -104,13 +104,13 @@
                                     <div class="swiper-slide">
                                         <div class="interactive-banner-style-08">
                                             <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
-                                                <a href="#">
+                                                <a href="<?php echo base_url(); ?>/careers/drivers">
                                                    <img src="<?php echo base_url(); ?>/assets/img/careers/d2.webp" alt="" class="border-radius-6px w-100">
                                                 </a>
                                                 <figcaption class="d-flex flex-column align-items-start justify-content-start position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-10">
                                                     <div class="d-flex w-100 align-items-center">
                                                         <div class="col last-paragraph-no-margin">
-                                                            <a href="#" class="text-white fs-30 lh-40  d-block head">Smith-certified and  Trained Drivers</a>
+                                                            <a href="<?php echo base_url(); ?>/careers/drivers" class="text-white fs-30 lh-40  d-block head">Smith-certified and  Trained Drivers</a>
                                                         </div>
                                                     </div>
                                                     <div class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-dark-transparent z-index-minus-1 opacity-9"></div> 
@@ -124,13 +124,13 @@
                                     <div class="swiper-slide">
                                         <div class="interactive-banner-style-08">
                                             <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
-                                                <a href="#">
+                                                <a href="<?php echo base_url(); ?>/careers">
                                                     <img src="<?php echo base_url(); ?>/assets/img/about/team.jpg" alt="" class="border-radius-6px w-100">
                                                 </a>
                                                 <figcaption class="d-flex flex-column align-items-start justify-content-start position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-10">
                                                     <div class="d-flex w-100 align-items-center">
                                                         <div class="col last-paragraph-no-margin">
-                                                            <a href="#" class="text-white fs-30 lh-40  d-block head">Vibrant <br/> Operations  Team</a>
+                                                            <a href="<?php echo base_url(); ?>/careers" class="text-white fs-30 lh-40  d-block head">Vibrant <br/> Operations  Team</a>
                                                         </div>
                                                     </div>
                                                     <div class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-dark-transparent z-index-minus-1 opacity-9"></div> 
@@ -145,13 +145,13 @@
                                     <div class="swiper-slide">
                                         <div class="interactive-banner-style-08">
                                             <figure class="m-0 hover-box overflow-hidden position-relative border-radius-6px">
-                                                <a href="#">
+                                                <a href="<?php echo base_url(); ?>/services">
                                                     <img src="<?php echo base_url(); ?>/assets/img/about/4.jpg" alt="" class="border-radius-6px w-100">
                                                 </a>
                                                 <figcaption class="d-flex flex-column align-items-start justify-content-start position-absolute left-0px top-0px w-100 h-100 z-index-1 p-14 lg-p-10">
                                                     <div class="d-flex w-100 align-items-center">
                                                         <div class="col last-paragraph-no-margin">
-                                                            <a href="#" class="text-white fs-30 lh-40  d-block head">Strong Corporate <br/> Governance</a>
+                                                            <a href="<?php echo base_url(); ?>/services" class="text-white fs-30 lh-40  d-block head">Strong Corporate <br/> Governance</a>
                                                         </div>
                                                     </div>
                                                     
@@ -252,7 +252,7 @@
                             <span class="alt-font fw-600 fs-17 text-uppercase text-primary position-absolute right-25px top-20px lg-right-15px lg-top-10px">
                                 <?= $award['year'] ?>
                             </span>
-                            <img class="w-30 mb-5" src="<?php echo base_url(); ?>/assets/img/award.jpg" alt="">
+                            <img class="w-30 mb-5" src="<?php echo base_url(); ?>/assets/img/award.png" alt="">
                         </div>
                         <div class="feature-box-content">
                             <h5 class="lh-24 fs-18 text-teal mb-3 fw-600 d-block"><?= $award['title'] ?></h5>

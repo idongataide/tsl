@@ -68,8 +68,8 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-4 md-mb-40px text-center text-lg-start" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'> 
-                    <span class="fs-20 text-base-color mb-10px d-block">Transport Services Limited</span>
-                    <h3 class="alt-font text-white mb-55px md-mb-40px ls-minus-1px"> Discover a range of services<span class="fw-600 font-style-italic text-decoration-line-bottom-medium"> tailored to </span> <span class="fw-600 font-style-italic text-decoration-line-bottom-medium-">meet your unique needs.</span></h3>
+                    <span class="fs-20 text-white mb-10px d-block">Transport Services Limited</span>
+                    <h3 class="alt-font text-white mb-55px md-mb-40px ls-minus-1px"> Discover a range of services<span class="fw-600  text-decoration-line-bottom-medium"> tailored to </span> <span class="fw-600  text-decoration-line-bottom-medium-">meet your unique needs.</span></h3>
                     <div class="d-flex justify-content-center justify-content-lg-start">
                         <!-- start slider navigation -->
                         <div class="slider-one-slide-prev-1 swiper-button-prev slider-navigation-style-04 bg-blue-licorice"><i class="bi bi-arrow-left-short icon-very-medium text-white"></i></div>
@@ -90,7 +90,7 @@
                                             <figcaption class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-55px xl-p-35px">
                                                <div class="d-flex w-100 align-items-center mt-auto">
                                                     <div class="col last-paragraph-no-margin">
-                                                        <h6 class="alt-font fw-500 fs-22 font-style-italic mb-0 w-80 xl-w-95"><a href="<?php echo base_url(); ?>/services/transport" class="text-white">Freight Transportation</a></h6>
+                                                        <h6 class="alt-font fw-500 fs-22  mb-0 w-80 xl-w-95"><a href="<?php echo base_url(); ?>/services/transport" class="text-white">Freight Transportation</a></h6>
                                                     </div>
                                                     <a href="<?php echo base_url(); ?>/services/transport" class="circle-box bg-white w-55px h-55px rounded-circle ms-auto position-relative rounded-box">
                                                         <i class="bi bi-arrow-right-short absolute-middle-center icon-very-medium lh-0px text-dark-gray"></i>
@@ -115,7 +115,7 @@
                                                 </a>
                                                 <div class="d-flex w-100 align-items-center mt-auto">
                                                     <div class="col last-paragraph-no-margin">
-                                                        <h6 class="alt-font fw-500 fs-22 font-style-italic mb-0 w-80 xl-w-95"><a href="<?php echo base_url(); ?>/services/oil_gas" class="text-white">Oil and Gas Transportation</a></h6>
+                                                        <h6 class="alt-font fw-500 fs-22  mb-0 w-80 xl-w-95"><a href="<?php echo base_url(); ?>/services/oil_gas" class="text-white">Oil and Gas Transportation</a></h6>
                                                     </div>
                                                     <a href="<?php echo base_url(); ?>/services/oil_gas" class="circle-box bg-white w-55px h-55px rounded-circle ms-auto position-relative rounded-box">
                                                         <i class="bi bi-arrow-right-short absolute-middle-center icon-very-medium lh-0px text-dark-gray"></i>
@@ -139,7 +139,7 @@
                                                 </a>
                                                 <div class="d-flex w-100 align-items-center mt-auto">
                                                     <div class="col last-paragraph-no-margin">
-                                                        <h6 class="alt-font fw-500 fs-22 font-style-italic mb-0 w-80 xl-w-95"><a href="<?php echo base_url(); ?>/services/freight" class="text-white">Freight Forwarding & Brokerage</a></h6>
+                                                        <h6 class="alt-font fw-500 fs-22  mb-0 w-80 xl-w-95"><a href="<?php echo base_url(); ?>/services/freight" class="text-white">Freight Forwarding & Brokerage</a></h6>
                                                     </div>
                                                     <a href="<?php echo base_url(); ?>/services/freight" class="circle-box bg-white w-55px h-55px rounded-circle ms-auto position-relative rounded-box">
                                                         <i class="bi bi-arrow-right-short absolute-middle-center icon-very-medium lh-0px text-dark-gray"></i>
@@ -163,7 +163,7 @@
                                                 </a>
                                                 <div class="d-flex w-100 align-items-center mt-auto">
                                                     <div class="col last-paragraph-no-margin">
-                                                        <h6 class="alt-font fw-500 fs-22 font-style-italic mb-0 w-80 xl-w-95"><a href="<?php echo base_url(); ?>/services/fleets" class="text-white">Dedicated Fleet services</a></h6>
+                                                        <h6 class="alt-font fw-500 fs-22  mb-0 w-80 xl-w-95"><a href="<?php echo base_url(); ?>/services/fleets" class="text-white">Dedicated Fleet services</a></h6>
                                                     </div>
                                                     <a href="<?php echo base_url(); ?>/services/fleets" class="circle-box bg-white w-55px h-55px rounded-circle ms-auto position-relative rounded-box">
                                                         <i class="bi bi-arrow-right-short absolute-middle-center icon-very-medium lh-0px text-dark-gray"></i>
@@ -216,15 +216,7 @@
                                 <div class="swiper-slide border-radius-6px overflow-hidden">
                                     <img class="w-100" src="<?php echo base_url(); ?>/assets/img/service/1.jpg" alt="">
                                 </div>
-                                <!-- end carousal item -->
-                                <!-- start carousal item --> 
-                                <div class="swiper-slide border-radius-6px overflow-hidden">
-                                    <img class="w-100" src="<?php echo base_url(); ?>/assets/img/06.webp" alt="">
-                                </div>
-                                <div class="swiper-slide border-radius-6px overflow-hidden">
-                                    <img class="w-100" src="<?php echo base_url(); ?>/assets/img/09.webp" alt="">
-                                </div>
-                                <!-- end carousal item -->
+                               
                             </div>
                             <!-- start slider pagination -->
                             <div class="swiper-pagination container swiper-pagination-clickable swiper-pagination-bullets-right swiper-number"></div> 
