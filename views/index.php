@@ -64,7 +64,7 @@
                         </div> 
                     </div>                    
                     <div class="swiper-slide">
-                        <div class="position-absolute start-0 top-0px w-100 h-100 cover-background" style="background-image:url('<?php echo base_url(); ?>/assets/img/bg/safety.webp');" data-anime='{ "translateY": [0, 0], "opacity": [1,1], "scale": [1,1.1], "duration": 7000, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'></div>
+                        <div class="position-absolute start-0 top-0px w-100 h-100 cover-background" style="background-image:url('<?php echo base_url(); ?>/assets/img/bg/safety.jpg');" data-anime='{ "translateY": [0, 0], "opacity": [1,1], "scale": [1,1.1], "duration": 7000, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'></div>
                         <div class="opacity-medium gradient-black"></div>
                         <div class="container h-100">
                             <div class="row align-items-center h-100 justify-content-start">
@@ -210,9 +210,8 @@
 
 
        
-        <!-- <?php include 'layouts/core-values.php'?>  -->
 
-        <section class="bg-cultured position-relative overflow-hidden p-0 mt-5">  
+        <section class="pt-0- pb-0 bg-light position-relative overflow-hidden ">  
             <div class="row justify-content-center mb-3">
                 <div class="col-lg-7 text-center" data-anime='{ "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <!-- <span class="fs-16 lh-22 fw-700 mb-15px d-inline-block text-uppercase text-dark-gray border-bottom border-2 border-color-base-color"></span> -->
@@ -274,7 +273,7 @@
                                         <a href="<?php echo base_url(); ?>/services" class="btn btn-large btn-round-edge btn-dark-gray btn-slide-right">Get Started!<span class="bg-cultured"></span></a>                 
                                     </div>
                                     <div class="col-lg-6 col-md-6 offset-xl-1 sm-pb-8">
-                                        <div class="h-100 outside-box-right-20 cover-background sm-h-350px sm-me-0" style="background-image: url(<?php echo base_url(); ?>/assets/img/about/bemore.jpg)"></div>
+                                        <div class="h-100 outside-box-right-20 cover-background sm-h-350px sm-me-0" style="background-image: url(<?php echo base_url(); ?>/assets/img/about/safety.jpg)"></div>
                                     </div>                                    
                                 </div>
                             </div>

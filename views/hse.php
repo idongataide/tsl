@@ -35,7 +35,7 @@
     <div class="container">
         <div class="row align-items-center justify-content-center mb-8 xs-mb-50px">
             <div class="col-lg-6 col-md-10 position-relative md-mb-50px sm-mb-30px" data-anime='{ "effect": "slide", "direction": "tb", "color": "#008080", "duration": 1000, "delay": 0 }'>
-                <img class="w-100 border-radius-5px" src="<?php echo base_url(); ?>/assets/img/hse3.webp" alt="">
+                <img class="w-100 border-radius-5px" src="<?php echo base_url(); ?>/assets/img/hseq1.jpg" alt="">
             </div>
             <div class="col-xl-4 offset-lg-1 col-lg-5 col-md-10 text-center text-lg-start" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <span class="alt-font text-uppercase fw-600 mb-15px d-inline-block ls-1px"></span>
@@ -92,7 +92,7 @@
             <div class="stack-item-wrapper">
                 <div class="container-fluid">
                     <div class="row align-items-center full-screen md-h-auto">  
-                        <div class="col-lg-6 cover-background overflow-visible h-100 md-h-500px" style="background-image: url(<?php echo base_url(); ?>/assets/img/hse1.png)">
+                        <div class="col-lg-6 cover-background overflow-visible h-100 md-h-500px" style="background-image: url(<?php echo base_url(); ?>/assets/img/hseq2.jpg)">
                             <div class="position-absolute right-minus-130px top-60px md-top-auto md-bottom-minus-50px fs-170 lg-fs-120 lg-right-minus-80px md-right-0px md-left-0px text-center text-lg-start alt-font z-index-9 fw-600 text-dark-gray opacity-3">02</div>
                             <div class="position-absolute right-0px bottom-minus-1px">
                                 <div class="vertical-title-center">
