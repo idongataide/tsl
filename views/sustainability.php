@@ -18,7 +18,7 @@
 <section class="pb-1">
         <div class="container" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 300, "easing": "easeOutQuad" }'> 
             <div class="row justify-content-center mb-6 md-mb-50px">                    
-                <div class="col-lg-7 col-12 md-mb-35px last-paragraph-no-margin" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                <div class="col-lg-8 col-12 md-mb-35px last-paragraph-no-margin" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <div class="mb-10px">
                         <span class="w-30px h-2px fs-15 d-inline-block bg-base-color me-5px align-middle"></span>
                         <span class="text-uppercase text-base-color fs-16 fw-600 d-inline-block">Transport Services Limited</span>
@@ -26,7 +26,7 @@
                     <h4 class="text-dark-gray fw-600 ls-minus-2px">Our commitment goes beyond operations</h4>
                     <p class="lg-w-100">We engage in community partnerships, promote fair labour practices, and uphold the highest standards of governance. As we strive for carbon neutrality and foster a regenerative future, we inspire positive change across our industry, driving a future where sustainability is a fundamental aspect of our business. Join us on this journey toward a resilient and thriving world.</p>
                 </div>
-                <div class="col-xl-4 col-lg-5 offset-xl-1- col-12">
+                <!-- <div class="col-xl-4 col-lg-5 offset-xl-1- col-12">
                     <div class="border-radius-10px overflow-hidden" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         <div class="p-30px bg-very-light-green text-center">
                             <span class="fs-18 ls-minus-05px fw-600 text-dark-gray">Incorporation of Transport Services Limited as a Limited Liability Company on </span>
@@ -40,7 +40,7 @@
                             </div>
                         </div>  
                     </div>
-                </div>
+                </div> -->
             </div>
             
        </div>
