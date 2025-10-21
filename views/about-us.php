@@ -21,7 +21,7 @@
                 <div class="col-xl-6 col-lg-6 md-mb-50px text-center text-lg-start" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="bg-solitude-blue text-uppercase fs-13 pe-25px pe-25px alt-font fw-600 text-base-color lh-40 sm-lh-55 border-radius-100px d-inline-block mb-25px">Transport Services Limited</span>
                     <h3 class="alt-font text-dark-gray fw-600 ls-minus-1px" data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>We are driven by our vision to transform logistics in Africa</h3>
-                    <p data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>The companies commenced with the incorporation of Transport Services Limited as a Limited Liability Company on September 8, 2001 and have today, metamorphosed into two independent companies...Transport Services Ltd & TSL Logistics.</p>
+                    <p data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>TSL commenced with the incorporation of Transport Services Limited as a Limited Liability Company on September 8, 2001 and have today, metamorphosed into two independent companies... Transport Services Limited and TSL Logistics Limited.</p>
                 </div>
                 <div class="col-xl-5 col-lg-6 offset-xl-1 position-relative">
                     <div class="accordion pricing-table-style-04" id="accordion-style-01" data-active-icon="fa-angle-up" data-inactive-icon="fa-angle-down" data-anime='{"el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
@@ -180,7 +180,7 @@
         <div class="container"> 
                 <div class="row justify-content-center mb-3">
                     <div class="col-12 text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <h4 class="fw-700 text-dark-gray ls-minus-1px mb-15px d-block">Our Journey</h4>  
+                        <h4 class="fw-700 text-dark-gray   mb-15px d-block">Our Story of Growth</h4>  
                         <p class="xl-w-100 md-w-80 sm-w-100 md-mx-auto">TSL’s story is one of growth and home-grown excellence…</p>
                     </div>
                 </div>
@@ -196,7 +196,7 @@
                                 ?> 
                                 <div class="swiper-slide"> 
                                     <div class="col process-step-style-06 text-center last-paragraph-no-margin hover-boxs md-mb-50px">
-                                        <h5 class="d-block text-dark-gray mb-0 fw-600  ls-minus-2px"><?= $story['year'] ?></h5>
+                                        <h5 class="d-block text-dark-gray mb-0 fw-600"><?= $story['year'] ?></h5>
                                         <div class="process-step-icon-box position-relative mt-25px mb-25px">
                                             <span class="progress-step-separator bg-dark-gray w-100 separator-line-1px opacity-1"></span>
                                             <div class="step-box d-flex align-items-center justify-content-center bg-white box-shadow-medium-bottom border-radius-100 mx-auto w-30px h-30px">
