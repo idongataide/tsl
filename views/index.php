@@ -13,7 +13,7 @@
                                 <div class="col-xl-8 col-lg-9 position-relative text-white">
                                     <span class="fs-15 d-block mb-15px ls-4px text-uppercase" data-anime='{ "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "delay": 200 }'>Transport Services Limited</span>
                                     <div class="alt-font fs-60 sm-fs-60 fw-600 xs-fs-40 mb-10px w-80 lg-w-100 md-w-100 sm-w-100 sm-mb-35px anime-text ls-minus-2px" data-fancy-text='{ "opacity": [0, 1], "translateY": [50, 0], "string": ["Moving the Nation"], "duration": 500, "delay": 200, "speed": 10, "easing": "easeOutQuad" }'></div>  
-                                    <div style=""><span class="fs-18 w-60 md-w-100 mb-25px fw-300 d-inline-block" data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>A leading provider of customized logistics and transportation solutions in Nigeria, safely covering over 25 million kilometres monthly.</span></div>
+                                    <div style=""><span class="fs-18 w-60 md-w-100 mb-25px fw-300 d-inline-block" data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>A leading provider of customized logistics and transportation solutions in Nigeria, safely covering over 2.5 million kilometres monthly.</span></div>
                                     <a href="<?php echo base_url(); ?>/services" class="btn btn-large btn-primary btn-switch-text btn-box-shadow fw-400">
                                         <span> 
                                             <span class="btn-double-text" data-text="Explore services">Explore Services</span> 
@@ -82,6 +82,25 @@
                             </div> 
                         </div> 
                     </div>                    
+                    <div class="swiper-slide">
+                        <div class="position-absolute start-0 top-0px w-100 h-100 cover-background" style="background-image:url('<?php echo base_url(); ?>/assets/img/bg/safety.webp');" data-anime='{ "translateY": [0, 0], "opacity": [1,1], "scale": [1,1.1], "duration": 7000, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'></div>
+                        <div class="opacity-medium gradient-black"></div>
+                        <div class="container h-100">
+                            <div class="row align-items-center h-100 justify-content-start">
+                                <div class="col-xl-10 col-lg-9 position-relative text-white">
+                                    <span class="fs-15 d-block mb-15px ls-4px text-uppercase" data-anime='{ "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "delay": 200 }'>Transport Services Limited</span>
+                                    <div class="alt-font fs-60 sm-fs-60 fw-600 xs-fs-40 mb-10px w-80 lg-w-100 md-w-100 sm-w-100 sm-mb-35px anime-text ls-minus-2px" data-fancy-text='{ "opacity": [0, 1], "translateY": [50, 0], "string": ["We inspire you to Be More"], "duration": 500, "delay": 200, "speed": 10, "easing": "easeOutQuad" }'></div>  
+                                    <div style=""><span class="fs-18 w-60 md-w-100 mb-25px fw-300 d-inline-block" data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>We aim to help our people realize their full potential and be celebrated as a great place to work - recognized as an Employer of Choice for both fresh graduates and experienced professionals.</span></div>
+                                    <a href="<?php echo base_url(); ?>/safety" class="btn btn-large btn-primary btn-switch-text btn-box-shadow fw-400">
+                                        <span> 
+                                            <span class="btn-double-text" data-text="More Details">More Details</span> 
+                                            <span><i class="feather icon-feather-arrow-right"></i></span>
+                                        </span>
+                                    </a>  
+                                </div>
+                            </div> 
+                        </div> 
+                    </div>                    
                  
                 </div>
                 <!-- start slider pagination --> 
@@ -103,7 +122,7 @@
                             <img src="<?php echo base_url(); ?>/assets/img/service/25.png" alt="" class="w-100"> 
                             <figcaption class="position-absolute border-radius-left-8px bg-secondary right-0px bottom-0px p-45px last-paragraph-no-margin">
                                 <i class="fa fa-truck-fast icon-medium text-white mb-15px d-block"></i>
-                                <p class="text-white">Establised</p>
+                                <p class="text-white">Established </p>
                                 <h4 class="alt-font fw-700 text-white mb-0 d-block">2001</h4>
                             </figcaption>
                         </figure>
@@ -227,7 +246,7 @@
                                         <a href="<?php echo base_url(); ?>/services" class="btn btn-large btn-round-edge btn-dark-gray btn-slide-right">Get Started!<span class="bg-cultured"></span></a>                 
                                     </div>
                                     <div class="col-lg-6 col-md-6 offset-xl-1 sm-pb-8">
-                                        <div class="h-100 outside-box-right-20 cover-background sm-h-350px sm-me-0" style="background-image: url(<?php echo base_url(); ?>/assets/img/about/s1s.webp)"></div>
+                                        <div class="h-100 outside-box-right-20 cover-background sm-h-350px sm-me-0" style="background-image: url(<?php echo base_url(); ?>/assets/img/about/s1.jpg)"></div>
                                     </div>                                    
                                 </div>
                             </div>
