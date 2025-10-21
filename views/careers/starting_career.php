@@ -144,7 +144,7 @@
 
 
 <section class="position-relative overflow-hidden">
-    <div class="one-third-screen md-h-400px sm-h-350px skrollr-parallax magic-cursor round-cursor mx-auto" data-bottom-top="width: 54%" data-center-top="width: 86%;" data-parallax-background-ratio="0.5" style="background-image: url('<?php echo base_url(); ?>/assets/img/careers/intents.jpg')"></div>
+    <div class="one-third-screen md-h-400px sm-h-350px skrollr-parallax magic-cursor round-cursor mx-auto" data-bottom-top="width: 54%" data-center-top="width: 86%;" data-parallax-background-ratio="0.5" style="background-image: url('<?php echo base_url(); ?>/assets/img/careers/interns.jpg')"></div>
 </section>
 
 
