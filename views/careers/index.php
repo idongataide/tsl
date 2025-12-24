@@ -16,7 +16,7 @@
                     <!-- <span class="fs-18 fw-500" data-fancy-text='{ "effect": "rotate", "string": ["OUR VALUE PROPOSITION"], "speed": 50, "duration": 3500 }'></span>  -->
                 </div>
                 <h1 class="alt-font text-dark-gray fw-700 mb-20px">We inspire you <br/>to <span class="text-primary">Be More.</span></h1> 
-                <div class="alt-font fw-500 fs-16 w-90 sm-w-100 mb-35px xs-mb-25px">To realize their full potential, dreams, and hopes. We aim to be celebrated as a great place to work by our employees and recognized as an Employer of Choice by potential candidates, from fresh graduates to experienced professionals.</div>
+                <div class="alt-font fw-500 fs-16 w-90 sm-w-100 mb-35px xs-mb-25px">To realize your full potential, dreams, and hopes. We aim to be celebrated as a great place to work by our employees and recognized as an Employer of Choice by potential candidates, from fresh graduates to experienced professionals.</div>
                 <a href="<?php echo base_url(); ?>/careers/available_positions" class="btn btn-extra-large btn-primary fw-400">Search Positions</a>
             </div> 
             <div class="col-xl-5 col-lg-5 align-self-end d-m-none">
