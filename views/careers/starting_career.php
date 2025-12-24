@@ -17,7 +17,7 @@
                     <!-- <span class="fs-18 fw-500" data-fancy-text='{ "effect": "rotate", "string": ["OUR VALUE PROPOSITION"], "speed": 50, "duration": 3500 }'></span>  -->
                 </div>
                 <h1 class="alt-font text-dark-gray fw-700 mb-20px">Start your <br/> career with us </h1> 
-                <div class="alt-font fw-500 fs-16 w-90 sm-w-100 mb-35px xs-mb-25px">At TSL, we empower you to explore diverse career paths, discover your strengths, and align your talents with opportunities that resonate with your aspirations. We believe in self-driven careers and that work should be a continuous learning journey, offering you the chance to make a meaningful impact in the environment we operate. Seizing the opportunity to make a difference holds greater value than merely climbing the corporate ladder.</div>
+                <div class="alt-font fw-500 fs-16 w-90 sm-w-100 mb-35px xs-mb-25px">At TSL, we empower you to explore diverse career paths, discover your strengths, and align your talents with opportunities that resonate with your aspirations. We believe in self-driven careers, and that work should be a continuous learning journey, offering you the chance to make a meaningful impact in the environment we operate. Seizing the opportunity to make a difference holds greater value than merely climbing the corporate ladder.</div>
                 <!--Those who embrace this mindset will find Transport Services Ltd to be a challenging, inspiring, and highly rewarding place to build their career-->
                 <a href="<?php echo base_url(); ?>/careers/available_positions" class="btn btn-extra-large btn-primary fw-400">Search Positions</a>
             </div> 
