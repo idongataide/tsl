@@ -49,7 +49,7 @@
                                 <div class="rotate-content-front z-index-2">
                                     <i class="line-icon-Headset icon-extra-large text-base-color mb-25px"></i>
                                     <div class="fs-18 text-dark-gray fw-500 mb-5px">Let's talk with us</div>
-                                    <span class="w-60 lg-w-75 md-w-70 xs-w-60 d-block m-auto">Phone: 08002255875</span>
+                                    <span class="w-70 lg-w-75 md-w-70 xs-w-60 d-block m-auto">Phone: 08002255875</span>
                                 </div>
                             </div>
                             <!-- end front side -->
