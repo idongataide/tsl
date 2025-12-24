@@ -42,7 +42,7 @@
                     <!-- end footer column -->
                     <!-- start footer column -->
                     <div class="col-lg-3 col-md-10 col-sm-6 text-md-center text-lg-start order-last order-sm-4">
-                        <span class="fs-16 d-block text-white fw-500 mb-10px">KeepSubscribe our newsletter </span>
+                        <span class="fs-16 d-block text-white fw-500 mb-10px">Subscribe our newsletter </span>
                         <p class="mb-20px fs-17 mx-auto xs-w-90">To get the latest news and updates.</p>
                         <div class="d-inline-block w-100 newsletter-style-02 position-relative mb-15px">
                             <form action="email-templates/subscribe-newsletter.php" method="post" class="position-relative w-100">
