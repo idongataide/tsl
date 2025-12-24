@@ -104,7 +104,7 @@
                             </div>
                             <div class="feature-box-content last-paragraph-no-margin">
                                 <span class="d-inline-block text-white fw-600 fs-17 mb-5px">Respect for Individual</span>
-                                <p class="text-white">We promote mutual respect and encourage dignity in all.</p>
+                                <p class="text-white">We promote mutual respect and encourage dignity for all.</p>
                             </div>
                             <div class="feature-box-overlay bg-very-light-gray"></div>
                         </div>  
@@ -118,7 +118,7 @@
                             <div class="feature-box-content last-paragraph-no-margin">
                                 <span class="d-inline-block text-white fw-600 fs-17 mb-5px">Safety</span>
                                 <p class="text-white">We manage safety as any other critical business activity by
-                                    <span class="read-more-text"> promoting a culture in which all stakeholders are committed to.<span> 
+                                    <span class="read-more-text"> promoting a culture all stakeholders are committed to.<span> 
                                 </p>
                                 <span class="read-more">Read More</span>
                             </div>
