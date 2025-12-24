@@ -164,7 +164,7 @@
                 <div class="process-step-icon-box position-absolute top-0px left-20px xs-left-10px">
                     <div class="number d-inline-block fs-110 fw-700 text-outline text-outline-color-extra-medium-gray">03</div>
                 </div>
-                <p class="w-80 xl-w-100"><b>Be Concise yet Comprehensive</b> Aim for a CV that is two to three pages long to ensure all key information is covered without being overly brief. </p>
+                <p class="w-80 xl-w-100"><b>Be Concise yet Comprehensive</b> <br/> Aim for a CV that is two to three pages long to ensure all key information is covered without being overly brief. </p>
             </div>
             <!-- end process step item --> 
         </div>
