@@ -77,7 +77,7 @@
                                 <div class="rotate-content-front z-index-2">
                                     <i class="line-icon-Mail-Read icon-extra-large text-base-color mb-25px"></i>
                                     <div class="fs-18 text-dark-gray fw-500 mb-5px">Need live support?</div> 
-                                    <span class="w-60 lg-w-75 md-w-70 xs-w-60 d-block m-auto">Reach us on customerservice@tsllimited.com</span>
+                                    <span class="w-70 lg-w-75 md-w-70 xs-w-60 d-block m-auto">Reach us on customerservice@tsllimited.com</span>
                                     
                                 </div>
                             </div>
