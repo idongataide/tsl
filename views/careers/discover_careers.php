@@ -148,7 +148,7 @@
                 <div class="process-step-icon-box position-absolute top-0px left-20px xs-left-10px">
                     <div class="number d-inline-block fs-110 fw-700 text-outline text-outline-color-extra-medium-gray">01</div>
                 </div>
-                <p class="w-85 xl-w-100">Tailor Your CV to the Role Emphasize the skills and experiences that align with the specific job description.</p>
+                <p class="w-85 xl-w-100"><b>Tailor Your CV to the Role</b> Emphasize the skills and experiences that align with the specific job description.</p>
             </div>
             <!-- end process step item --> 
             <!-- start process step item -->
@@ -156,7 +156,7 @@
                 <div class="process-step-icon-box position-absolute top-0px left-20px xs-left-10px">
                     <div class="number d-inline-block fs-110 fw-700 text-outline text-outline-color-extra-medium-gray">02</div>
                 </div>
-                <p class="w-85 xl-w-100">Showcase Your Achievements Provide concrete examples that demonstrate your skills and successes in past roles</p>
+                <p class="w-85 xl-w-100"><b>Showcase Your Achievements</b> Provide concrete examples that demonstrate your skills and successes in past roles</p>
             </div>
             <!-- end process step item --> 
             <!-- start process step item -->
@@ -164,7 +164,7 @@
                 <div class="process-step-icon-box position-absolute top-0px left-20px xs-left-10px">
                     <div class="number d-inline-block fs-110 fw-700 text-outline text-outline-color-extra-medium-gray">03</div>
                 </div>
-                <p class="w-80 xl-w-100">Be Concise yet Comprehensive Aim for a CV that is two to three pages long to ensure all key information is covered without being overly brief. </p>
+                <p class="w-80 xl-w-100"><b>Be Concise yet Comprehensive</b> Aim for a CV that is two to three pages long to ensure all key information is covered without being overly brief. </p>
             </div>
             <!-- end process step item --> 
         </div>
