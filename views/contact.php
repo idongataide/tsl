@@ -5,7 +5,7 @@
             <div class="row align-items-center small-screen">
                 <div class="col-lg-12 col-sm-12 position-relative page-title-extra-small">
                     <h1 class="mb-15px text-white opacity-7 fw-300 overflow-hidden">
-                        <span class="d-inline-block" data-anime='{ "translateY": [30, 0], "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "staggervalue": 300 }'>TSL Services Limited</span>
+                        <span class="d-inline-block" data-anime='{ "translateY": [30, 0], "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "staggervalue": 300 }'>Transport Services Limited</span>
                     </h1>
                     <h2 class="m-auto pb-5px pt-5px t-light fw-600 ls-minus-1px overflow-hidden">
                         <span class="d-inline-block" data-anime='{ "translateY": [30, 0], "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "staggervalue": 300, "delay": 200 }'>Contact Us</span>
@@ -26,7 +26,7 @@
                                 <div class="rotate-content-front z-index-2">
                                     <i class="line-icon-Geo2-Love icon-extra-large text-base-color mb-25px"></i>
                                     <div class="fs-19 text-dark-gray fw-500 mb-5px">Office Address</div>
-                                    <span class="w-60 lg-w-75 md-w-70 xs-w-60 d-block m-auto">25a Olumoroti Jaiyesimi, Gbagada Estate Phase 2, Gbagada, Lagos</span>
+                                    <span class="w-60 lg-w-75 md-w-70 xs-w-60 d-block m-auto">SouthGate House, Osborne Foreshore Estate, Ikoyi, Lagos.</span>
                                 </div>
                             </div>
                             <!-- end front side -->
