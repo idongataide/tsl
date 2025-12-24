@@ -25,7 +25,7 @@
                             <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white w-100 border-radius-5px"> 
                                 <div class="rotate-content-front z-index-2">
                                     <i class="line-icon-Geo2-Love icon-extra-large text-base-color mb-25px"></i>
-                                    <div class="fs-19 text-dark-gray fw-500 mb-5px">Office Address</div>
+                                    <div class="fs-18 text-dark-gray fw-500 mb-5px">Office Address</div>
                                     <span class="w-60 lg-w-75 md-w-70 xs-w-60 d-block m-auto">SouthGate House, Osborne Foreshore Estate, Ikoyi, Lagos.</span>
                                 </div>
                             </div>
@@ -48,7 +48,7 @@
                             <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white w-100 border-radius-5px"> 
                                 <div class="rotate-content-front z-index-2">
                                     <i class="line-icon-Headset icon-extra-large text-base-color mb-25px"></i>
-                                    <div class="fs-19 text-dark-gray fw-500 mb-5px">Let's talk with us</div>
+                                    <div class="fs-18 text-dark-gray fw-500 mb-5px">Let's talk with us</div>
                                     <span class="w-60 lg-w-75 md-w-70 xs-w-60 d-block m-auto">Phone: 08002255875</span>
                                 </div>
                             </div>
@@ -76,7 +76,7 @@
                             <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white w-100 border-radius-5px"> 
                                 <div class="rotate-content-front z-index-2">
                                     <i class="line-icon-Mail-Read icon-extra-large text-base-color mb-25px"></i>
-                                    <div class="fs-19 text-dark-gray fw-500 mb-5px">Need live support?</div> 
+                                    <div class="fs-18 text-dark-gray fw-500 mb-5px">Need live support?</div> 
                                     <span class="w-60 lg-w-75 md-w-70 xs-w-60 d-block m-auto">Reach us on customerservice@tsllimited.com</span>
                                     
                                 </div>
