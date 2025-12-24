@@ -104,7 +104,7 @@
                         </div>
                         <div class="col-lg-6 ps-12 pe-14 xxl-ps-10 xxl-pe-10 xl-pe-8 lg-ps-6 lg-pe-4 md-p-50px sm-ps-30px sm-pe-30px position-relative align-self-center text-md-start text-center"> 
                             <h2 class="text-dark-gray alt-font fw-600 ls-minus-4px mb-25px">Why HSEQ management is important</h2>
-                            <p class="w-95 md-w-100 mb-35px">Managing HSEQ is crucial for business success. However, we must manage multiple business aspects and risks, and there is a limit to the resources available. Management is about priorities. It is critical therefore, that we require a structured and systematic approach to be able to set the right priorities.</p>
+                            <p class="w-95 md-w-100 mb-35px">Managing HSEQ is crucial for business success. However, we must manage multiple business aspects and risks, and there is a limit to the resources available. It is critical therefore, that we require a structured and systematic approach to be able to set the right priorities.</p>
                             <p class="w-95 md-w-100 mb-35px">A crucial aspect is the need for continuous learning. By applying the “plan - do - check - feedback” system, we are able to create a continuous improvement loop.   </p>
                         </div>
                     </div>

@@ -27,7 +27,7 @@
                 <div class="col-lg-8 order-1 order-lg-2 md-mb-50px" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                     <h4 class="text-dark-gray fw-600 ls-minus-1px alt-font mb-20px d-block" data-fancy-text='{ "opacity": [0, 1], "translateY": [50, 0], "string": ["Freight Forwarding & Brokerage"], "duration": 500, "delay": 200, "speed": 10, "easing": "easeOutQuad" }'></h4>
                     <p data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        TSL’s freight forwarding and brokerage services provide a comprehensive, end-to-end logistics solution
+                        TSL’s freight forwarding and brokerage services provides a comprehensive, end-to-end logistics solution
                         for businesses, streamlining the movement of goods both locally and internationally.
                         We handle every aspect of the process, from managing complex customs procedures to coordinating
                         various modes of transport—whether by air, sea, or land. With expertise in documentation, customs
