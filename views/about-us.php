@@ -240,7 +240,7 @@
         <div class="row justify-content-center align-items-center mb-3 text-center">
             <div class="col-12" data-anime='{ "el": "childs", "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <h4 class="alt-font text-dark-gray mb-15px fw-600 ls-minus-3px">Recent Awards</h4>
-                <p class="xl-w-100 md-w-80 sm-w-100 md-mx-auto">Over the years we have been recognized as leaders in our industry</p>
+                <p class="xl-w-100 md-w-80 sm-w-100 md-mx-auto">Over the years we have been recognized as leaders in our industry.</p>
             </div>
         </div>
         <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2 gy-10 g-10 mb-5 xs-mb-40px" 
