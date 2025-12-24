@@ -38,10 +38,10 @@
                     <p data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }' class="fs-22 mb-15px">
                         We are dedicated to attracting and nurturing individuals who are eager to grow,
                         innovate, and fulfil their aspirations within our company. Our core beliefs
-                        empower our team to Be More every day, turning TSL into not just a
+                        empower our team to <strong>"Be More"</strong> every day, turning TSL into not just a
                         workplace, but a thriving community where potential is realized, dreams are
                         pursued, and hopes are fulfilled. These guiding principles are what drive us
-                        all to become more at TSL
+                        all to become more at TSL.
                     </p>
                 </blockquote>
             </div>
