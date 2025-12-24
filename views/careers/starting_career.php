@@ -161,7 +161,7 @@
                     <p>Every year, TSL opens its doors to students from universities, polytechnics, and technical colleges within and outside Nigeria, offering them the chance to learn and lay the foundation for a meaningful future. Our internships span across all major departments and business units, providing a diverse range of opportunities</p>
                 </div>
                 <div class="mb-30px sm-mb-30px last-paragraph-no-margin"> 
-                    <p>Most internships range from 3 to 6 months, with our Technical Internships and national youth service internships extending from 6 to 12 months. As an intern, you'll collaborate with seasoned professionals on real business projects, gaining hands-on experience that will significantly enhance your readiness for life after school.</p>
+                    <p>Most internships range from 3 to 6 months, with our technical internships and National Youth Service internships extending from 6 to 12 months. As an intern, you'll collaborate with seasoned professionals on real business projects, gaining hands-on experience that will significantly enhance your readiness for life after school.</p>
                 </div> 
                 <div class="last-paragraph-no-margin"> 
                     <p>We invite you to explore internship opportunities at TSL and take a step towards creating the future you envision.</p>
