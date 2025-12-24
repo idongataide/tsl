@@ -87,7 +87,7 @@
                     <div class="col cover-background md-h-550px sm-h-400px" style="background-image: url(<?php echo base_url(); ?>/assets/img/careers/d4.webp)"></div>
                     <div class="col pt-7 pb-7 ps-7 pe-7 xl-p-5">
                         <h3 class="alt-font fw-500 text-white lh-48 ls-minus-1px"><span class="fw-700 lh-40">Safe Women on Wheels:</span> Empowering Women in Transport </h3>
-                        <p class="mb-20px text-white">Our Women on Wheels initiative proudly reflects our dedication to fostering diversity and inclusion within the transport industry. This program celebrates and supports women aspiring to build fulfilling careers as professional drivers, contributing to the efficient and reliable transportation of goods across local, regional, and national routes—an integral part of the supply chain. Through tailored training, mentorship, and a strong, supportive community, Women on Wheels is designed to empower and prepare women for success behind the wheel.</p>
+                        <p class="mb-20px text-white">Our safe Women on Wheels initiative proudly reflects our dedication to fostering diversity and inclusion within the transport industry. This program celebrates and supports women aspiring to build fulfilling careers as professional drivers, contributing to the efficient and reliable transportation of goods across local, regional, and national routes—an integral part of the supply chain. Through tailored training, mentorship, and a strong, supportive community, Women on Wheels is designed to empower and prepare women for success behind the wheel.</p>
                         
                         <div class="d-inline-block mt-15px"> 
                             <a href="#" class="btn btn-large btn-rounded with-rounded btn-white btn-box-shadow me-25px fw-600">Get Started<span class="bg-dark-gray text-white"><i class="feather icon-feather-arrow-right"></i></span></a>
@@ -219,7 +219,7 @@
                         <div class="">
                             <p class="text-gray fs-16">In 2017, TSL set up a state-of-the-art Drivers’ Training School in Calabar in partnership with Federal Road Safety Corps (FRSC) and Lafarge Africa Plc. The Facility, which is the largest of its kind in the country, is capable of producing up to 2,000 students per annum in all aspects of Safe driving operations and equipment handling.</p>
                             <p class="text-gray fs-16">Among the cutting edge equipment at the School is a state-of-the-art simulator, Digitally-equipped classrooms and other training aids meant to ensure that the products of the School rank among the best internationally.</p>
-                            <p class="text-gray fs-16">It is run by experienced professionals drawn from Nigeria and Europe who train the drivers on a wide range of vehicles and conditions. This has contributed to our reputation as market leaders in Operational Safety.</p>
+                            <p class="text-gray fs-16">It is run by experienced professionals drawn from West Africa and Europe who train the drivers on a wide range of vehicles and conditions. This has contributed to our reputation as market leaders in Operational Safety.</p>
                         </div>
                     </div> 
                 </div>
