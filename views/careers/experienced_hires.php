@@ -67,7 +67,7 @@
               
                 <div class="fs-18 sm-fs-16 text-white mb-20px w-75 xxl-w-100 lg-w-100 sm-w-90 d-block" data-anime='{ "el": "childs", "translateX": [110, 0], "duration": 600, "delay":0, "staggervalue": 300, "easing": "easeOutQuad" }'>                
                     <span class="d-inline-block opacity-8  mb-20px">While our diverse workforce and business partnerships bring together different
-                        perspectives and approaches, it is creating an atmosphere and an environment where each employee feels valued, respected and heard that makes our
+                        perspectives and approaches, it is in creating an atmosphere and an environment where each employee feels valued, respected and heard that makes our
                         organisation stand out.
                     </span>
                     <span class="d-inline-block opacity-8">What we offer is a platform, where no matter how you see the world, if you believe
