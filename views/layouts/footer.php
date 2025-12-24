@@ -33,10 +33,10 @@
                     <!-- end footer column -->
                     <!-- start footer column -->
                     <div class="col-lg-3 col-md-4 col-sm-5 offset-md-0 offset-sm-1 order-5 order-md-3 xs-mb-30px">
-                        <span class="fs-16 d-block text-white fw-500 mb-10px">Need help?</span>
-                        <span class="d-block">Call us directly?</span>
+                        <span class="fs-16 d-block text-white fw-500 mb-10px">Contact Us?</span>
+                        <!-- <span class="d-block">Call us directly?</span> -->
                         <a href="tel:+2348 0022 558 75" class="mb-15px d-inline-block">+2348 0022 558 75</a>
-                        <span class="d-block">Need live support?</span>
+                        <!-- <span class="d-block">Need live support?</span> -->
                         <a href="#" class="d-sm-inline-block d-block"> customerservice@tsllimited.com</a>
                     </div>
                     <!-- end footer column -->
