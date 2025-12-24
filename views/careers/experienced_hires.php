@@ -16,7 +16,7 @@
                     <!-- <span class="fs-18 fw-500" data-fancy-text='{ "effect": "rotate", "string": ["OUR VALUE PROPOSITION"], "speed": 50, "duration": 3500 }'></span>  -->
                 </div>
                 <h1 class="alt-font text-dark-gray fw-700 mb-20px">Experienced Hires </h1> 
-                <div class="alt-font fw-500 fs-16 w-90 sm-w-100 mb-35px xs-mb-25px">Are you talented, experienced and ready for a new challenge. At TSL, you have the chance to make a genuine impact in the environment we operate in. We are constantly looking out for people who share a common objective, attitude, outlook & passion; where ambitious plans are turned into reality.</div>
+                <div class="alt-font fw-500 fs-16 w-90 sm-w-100 mb-35px xs-mb-25px">Are you talented, experienced and ready for a new challenge. At TSL, you have the opportunity to make a genuine impact in the environment we operate in. We are constantly looking out for people who share a common objective, attitude, outlook & passion; where ambitious plans are turned into reality.</div>
                 <a href="#" class="btn btn-extra-large btn-primary fw-400">Search Positions</a>
             </div> 
             <div class="col-xl-5 col-lg-5 align-self-end d-m-none">
