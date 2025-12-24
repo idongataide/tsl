@@ -62,7 +62,7 @@
                             </div>
                             <div class="feature-box-content last-paragraph-no-margin">
                                 <span class="d-inline-block text-white fw-600 fs-17 mb-5px">Customer Focus</span>
-                                <p class="text-white">We never lose sight of what really matters; the customer’s satisfaction.</p>
+                                <p class="text-white">We never lose sight of what really matters - "the customer’s satisfaction".</p>
                             </div>
                             <div class="feature-box-overlay bg-very-light-gray"></div>
                         </div>  

@@ -21,7 +21,7 @@
                 <div class="col-xl-6 col-lg-6 md-mb-50px text-center text-lg-start" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="bg-solitude-blue text-uppercase fs-13 pe-25px pe-25px alt-font fw-600 text-base-color lh-40 sm-lh-55 border-radius-100px d-inline-block mb-25px">Transport Services Limited</span>
                     <h3 class="alt-font text-dark-gray fw-600 ls-minus-1px" data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>We are driven by our vision to transform logistics in Africa</h3>
-                    <p data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>TSL commenced with the incorporation of Transport Services Limited as a Limited Liability Company on September 8, 2001 and have today, metamorphosed into two independent companies... Transport Services Limited and  <a href="https://tsllogisticsltd.com/" target="_blank"> TSL Logistics Limited.</a></p>
+                    <p data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>TSL commenced with the incorporation of Transport Services Limited as a Limited Liability Company on September 8, 2001 and has today, metamorphosed into two independent companies - Transport Services Limited and  <a href="https://tsllogisticsltd.com/" target="_blank"> TSL Logistics Limited.</a></p>
                 </div>
                 <div class="col-xl-5 col-lg-6 offset-xl-1 position-relative">
                     <div class="accordion pricing-table-style-04" id="accordion-style-01" data-active-icon="fa-angle-up" data-inactive-icon="fa-angle-down" data-anime='{"el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
@@ -156,7 +156,7 @@
                                                     </div>
                                                     
                                                     <div class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-dark-transparent z-index-minus-1 opacity-9"></div> 
-                                                    <p class="text-white">We are committed to excellence in corporate governance. Guided by a diverse and independent board, we prioritize transparency, ethical leadership, and rigorous risk management. Our financials, audited by on of the big fours since 2008, reflect our dedication to integrity. Through strong internal controls, stakeholder engagement, and a focus on sustainability.</p>
+                                                    <p class="text-white">We are committed to excellence in corporate governance. Guided by a diverse and independent board, we prioritize transparency, ethical leadership, and rigorous risk management.</p>
                                                 </figcaption>
                                             </figure>
                                         </div>
@@ -192,7 +192,8 @@
                                 <!-- start content carousal item --> 
                                 <?php
                                     $stories = $data['stories'];             
-                                    foreach($stories as $key => $story) {  
+                                    // var_dump($stories);
+                                    foreach($stories as $key => $story) { 
                                 ?> 
                                 <div class="swiper-slide"> 
                                     <div class="col process-step-style-06 text-center last-paragraph-no-margin hover-boxs md-mb-50px">
