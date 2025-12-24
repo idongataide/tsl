@@ -158,7 +158,7 @@
             </div>
             <div class="col-xxl-6 col-lg-5 offset-xxl-1" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 300, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <div class="mb-30px sm-mb-30px last-paragraph-no-margin"> 
-                    <p>Every year, TSL opens its doors to students from universities, polytechnics, and technical colleges within and outside Nigeria, offering them the chance to learn and lay the foundation for a meaningful future. Our internships span across all major departments and business units, providing a diverse range of opportunitie</p>
+                    <p>Every year, TSL opens its doors to students from universities, polytechnics, and technical colleges within and outside Nigeria, offering them the chance to learn and lay the foundation for a meaningful future. Our internships span across all major departments and business units, providing a diverse range of opportunities</p>
                 </div>
                 <div class="mb-30px sm-mb-30px last-paragraph-no-margin"> 
                     <p>Most internships range from 3 to 6 months, with our Technical Internships and national youth service internships extending from 6 to 12 months. As an intern, you'll collaborate with seasoned professionals on real business projects, gaining hands-on experience that will significantly enhance your readiness for life after school.</p>
