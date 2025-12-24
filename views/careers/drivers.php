@@ -241,7 +241,7 @@
                         </div>
                     </div>
                     <div class="col-xxl-5 col-lg-4 col-md-auto last-paragraph-no-margin" style="">
-                        <p class="text-white opacity-6 md-w-75 xs-w-100 mx-auto text-lg-start text-center">If you’re passionate about driving, dedicated to safety, and ready to make a difference, we’d love to hear from you. Our team of drivers is growing; so whether you’re a seasoned professional or new to the industry, we have a place for you.</p>
+                        <p class="text-white opacity-6 md-w-75 xs-w-100 mx-auto text-lg-start text-center">If you are passionate about driving, dedicated to safety, and ready to make a difference, we would love to hear from you. Our team of drivers is growing; so whether you are a seasoned professional or new to the industry, we have a place for you.</p>
                     </div>
                     <div class="col-xxl-3 col-lg-auto text-lg-end text-center md-mt-30px" style="">
                         <a href="<?php echo base_url(); ?>/contact" class="btn btn-large btn-transparent-white-light left-icon d-inline-block btn-box-shadow btn-switch-text">
