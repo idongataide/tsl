@@ -20,7 +20,7 @@
                 <a href="#" class="btn btn-extra-large btn-primary fw-400">Search Positions</a>
             </div> 
             <div class="col-xl-5 col-lg-5 align-self-end d-m-none">
-                <div class="position-absolute bottom-100px md-bottom-5 lg-w-65 md-w-100">
+                <div class="position-absolute bottom-70px md-bottom-5 lg-w-65 md-w-100">
                     <img class="w-95 right-20px position-relative" src="<?php echo base_url(); ?>/assets/img/career-hero.webp" class="" alt="">
                 </div>
             </div>
