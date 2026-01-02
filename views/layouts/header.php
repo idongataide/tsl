@@ -79,7 +79,7 @@
                                     <a href="<?php echo base_url(); ?>/about" class="nav-link">Companies</a>
                                     <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
-                                        <li><a target="_blank" href="tml.tsllimited.com">TSL Metroline</a></li>
+                                        <li><a target="_blank" href="https://tml.tsllimited.com">TSL Metroline</a></li>
                                         <li><a target="_blank" href="https://tsllogisticsltd.com/">TSL Logistics</a></li>                                       
                                     </ul>
                                 </li>

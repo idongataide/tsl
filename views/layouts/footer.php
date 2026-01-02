@@ -28,15 +28,11 @@
                             <li><a href="<?php echo base_url(); ?>/services/fleets">Dedicated Fleet services</a></li>
                         </ul>
                     </div>
-                    <!-- end footer column -->
-                    <!-- start footer column -->
-                    <div class="col-lg-3 col-md-6 col-sm-5 offset-md-0 offset-sm-1 order-5 order-md-3 xs-mb-30px">
+                     <div class="col-lg-3 col-md-6 col-sm-5 offset-md-0 offset-sm-1 order-5 order-md-3 xs-mb-30px">
                         <span class="fs-16 d-block text-white fw-500 mb-10px">Contact Us?</span>
                         <a href="tel:+2348 0022 558 75" class="d-inline-block">+2348 0022 558 75</a>
                         <a href="#" class="d-sm-inline-block d-block"> customerservice@tsllimited.com</a>
-                    </div>
-                    <!-- end footer column -->
-                    <!-- start footer column -->
+                    </div>                    
                     <div class="col-lg-3 col-md-6 col-sm-6 text-md-center text-lg-start order-last order-sm-4">
                         <span class="fs-16 d-block text-white fw-500 mb-10px">Subscribe to our newsletter </span>
                         <p class="mb-20px fs-17 mx-auto xs-w-90">To get the latest news and updates.</p>
