@@ -71,20 +71,18 @@
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
                                         <li><a href="<?php echo base_url(); ?>/services/oil_gas">Oil and Gas Transportation</a></li>
                                         <li><a href="<?php echo base_url(); ?>/services/transport">Freight Transportation</a></li>
-                                        <!-- <li><a href="<?php echo base_url(); ?>/services/dryvan">Flatbed trucking</a></li> -->
-                                        <!-- <li><a href="<?php echo base_url(); ?>/services/dryvan">Dry Van trucking</a></li> -->
                                         <li><a href="<?php echo base_url(); ?>/services/freight">Freight Forwarding and Brokerage</a></li>  
                                         <li><a href="<?php echo base_url(); ?>/services/fleets">Dedicated Fleet services</a></li>
                                     </ul>
                                 </li>
-                                <!-- <li class="nav-item dropdown dropdown-with-icon-style02">
+                                <li class="nav-item dropdown dropdown-with-icon-style02">
                                     <a href="<?php echo base_url(); ?>/about" class="nav-link">Companies</a>
                                     <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
-                                        <li><a href="<?php echo base_url(); ?>/#">TSL Metroline</a></li>
-                                        <li><a href="<?php echo base_url(); ?>/#">TSL Logistics</a></li>                                       
+                                        <li><a target="_blank" href="tml.tsllimited.com">TSL Metroline</a></li>
+                                        <li><a target="_blank" href="https://tsllogisticsltd.com/">">TSL Logistics</a></li>                                       
                                     </ul>
-                                </li> -->
+                                </li>
                                 <li class="nav-item"><a href="<?php echo base_url(); ?>/hse" class="nav-link <?php echo $menu_active === 'hse' ? 'active' : ''; ?>">HSEQ </a></li> 
                                 <li class="nav-item"><a href="<?php echo base_url(); ?>/sustainability" class="nav-link <?php echo $menu_active === 'sustainability' ? 'active' : ''; ?>">Sustainability</a></li> 
                                 <li class="nav-item dropdown submenu">
@@ -122,20 +120,11 @@
                                                 <li><a href="<?php echo base_url(); ?>/careers/drivers" class="<?php echo $career_menu_active === 'drivers' ? 'active' : ''; ?>">Our Drivers</a></li>                                             
                                                                                        
                                             </ul>
-                                            
-                                            <!--<ul class="col">  -->
-                                            <!--    <li class="sub-title">-->
-                                            <!--        <a href="#" class="p-0">-->
-                                            <!--            <img class="border-radius-10px" src="<?php echo base_url(); ?>/assets/img/careers/hero-4.webp" alt="">-->
-                                            <!--        </a>-->
-                                            <!--    </li> -->
-                                            <!--</ul>-->
                                         </div> 
                                     </div>
                                 </li>
                                 <li class="nav-item"><a href="<?php echo base_url(); ?>/news" class="nav-link <?php echo $menu_active === 'news' ? 'active' : ''; ?>">News</a></li> 
                                 <!-- <li class="nav-item"><a href="<?php echo base_url(); ?>/faq" class="nav-link <?php echo $menu_active === 'faq' ? 'active' : ''; ?>">FAQ</a></li> -->
-                                <!-- <li class="nav-item"><a href="<?php echo base_url(); ?>/download" class="nav-link <?php echo $menu_active === 'download' ? 'active' : ''; ?>">Download</a></li> -->
                             </ul>
                         </div>
                     </div>
