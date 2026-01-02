@@ -80,7 +80,7 @@
                                     <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
                                         <li><a target="_blank" href="tml.tsllimited.com">TSL Metroline</a></li>
-                                        <li><a target="_blank" href="https://tsllogisticsltd.com/">">TSL Logistics</a></li>                                       
+                                        <li><a target="_blank" href="https://tsllogisticsltd.com/">TSL Logistics</a></li>                                       
                                     </ul>
                                 </li>
                                 <li class="nav-item"><a href="<?php echo base_url(); ?>/hse" class="nav-link <?php echo $menu_active === 'hse' ? 'active' : ''; ?>">HSEQ </a></li> 
