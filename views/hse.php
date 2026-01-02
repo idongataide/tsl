@@ -37,7 +37,7 @@
             <div class="col-lg-6 col-md-10 position-relative md-mb-50px sm-mb-30px" data-anime='{ "effect": "slide", "direction": "tb", "color": "#008080", "duration": 1000, "delay": 0 }'>
                 <img class="w-100 border-radius-5px" src="<?php echo base_url(); ?>/assets/img/hseq1.jpg" alt="">
             </div>
-            <div class="col-xl-4 offset-lg-1 col-lg-5 col-md-10 text-center text-lg-start" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+            <div class="col-xl-5 offset-lg-1 col-lg-5 col-md-10 text-center text-lg-start" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <span class="alt-font text-uppercase fw-600 mb-15px d-inline-block ls-1px"></span>
                 <h3 class="alt-font fw-600 text-dark-gray ls-minus-1px shadow-none" data-shadow-animation="true" data-animation-delay="1500">Our  commitment to safety.</h3>
                 <p class="mb-35px sm-mb-25px">

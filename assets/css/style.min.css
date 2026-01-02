@@ -19534,3 +19534,16 @@ background-image: linear-gradient(to right, #009090, #008080, #44a181, #008080, 
 .bottom30{
   bottom: 30%;
 }
+
+.terms-section {
+  margin: 50px 0;
+}
+
+.terms-section ul li{
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.terms-section p{
+  text-align: justify !important;
+}

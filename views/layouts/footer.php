@@ -1,9 +1,9 @@
                
         <footer class="fs-17 footer-dark p-0 bg-dark-gray"> 
             <div class="container"> 
-                <div class="row justify-content-center pt-6 sm-pt-40px text-sm-start text-center">
+                <div class="row justify-content-center pt-8 sm-pt-40px text-sm-start text-center">
                     <!-- start footer column -->
-                    <div class="col-xl-2 col-lg-4 col-md-5 col-sm-6 md-mb-30px">
+                    <div class="col-xl-2 col-lg-4 col-md-6 col-sm-6 md-mb-30px">
                         <a href="index.php" class="footer-logo mb-20px d-inline-block"> 
                             <img src="<?php echo base_url(); ?>/assets/img/logo/logo-02.webp" alt="">
                         </a>
@@ -11,7 +11,7 @@
                         <div class="elements-social social-icon-style-02 mt-20px">
                         <ul class="small-icon light">
                             <li class="my-0"><a class="facebook" href="https://www.facebook.com/" target="_blank" aria-label="facebook"><i class="fa-brands fa-facebook-f"></i></a></li>
-                            <li class="my-0"><a class="dribbble" href="http://www.linkedin.com" target="_blank" aria-label="dribbble"><i class="fa-brands fa-linkedin"></i></a></li> 
+                            <li class="my-0"><a class="linkedin" href="http://www.linkedin.com" target="_blank" aria-label="dribbble"><i class="fa-brands fa-linkedin"></i></a></li> 
                             <li class="my-0"><a class="twitter" href="https://www.twitter.com" target="_blank" aria-label="twitter"><i class="fa-brands fa-twitter"></i></a></li> 
                             <li class="my-0"><a class="instagram" href="https://www.instagram.com" target="_blank" aria-label="instagram"><i class="fa-brands fa-instagram"></i></a></li> 
                         </ul>
@@ -19,29 +19,25 @@
                     </div>
                     <!-- end footer column -->
                     <!-- start footer column -->
-                    <div class="col-lg-3 col-md-3 col-sm-5 offset-xl-1 offset-md-0 offset-sm-1 md-mb-30px">
+                    <div class="col-lg-3 col-md-6 col-sm-5 offset-xl-1 offset-md-0 offset-sm-1 md-mb-30px">
                         <span class="fs-16 d-block text-white fw-500 mb-10px">What we do</span>
                         <ul>
                             <li><a href="<?php echo base_url(); ?>/services/oil_gas">Oil and Gas Transportation</a></li>
                             <li><a href="<?php echo base_url(); ?>/services/transport">Freight Transportation</a></li>
-                            <!-- <li><a href="<?php echo base_url(); ?>/services/dryvan">Flatbed trucking</a></li> -->
-                            <!-- <li><a href="<?php echo base_url(); ?>/services/dryvan">Dry Van trucking</a></li> -->
                             <li><a href="<?php echo base_url(); ?>/services/freight">Freight Forwarding and Brokerage</a></li>  
                             <li><a href="<?php echo base_url(); ?>/services/fleets">Dedicated Fleet services</a></li>
                         </ul>
                     </div>
                     <!-- end footer column -->
                     <!-- start footer column -->
-                    <div class="col-lg-3 col-md-4 col-sm-5 offset-md-0 offset-sm-1 order-5 order-md-3 xs-mb-30px">
+                    <div class="col-lg-3 col-md-6 col-sm-5 offset-md-0 offset-sm-1 order-5 order-md-3 xs-mb-30px">
                         <span class="fs-16 d-block text-white fw-500 mb-10px">Contact Us?</span>
-                        <!-- <span class="d-block">Call us directly?</span> -->
-                        <a href="tel:+2348 0022 558 75" class="mb-15px d-inline-block">+2348 0022 558 75</a>
-                        <!-- <span class="d-block">Need live support?</span> -->
+                        <a href="tel:+2348 0022 558 75" class="d-inline-block">+2348 0022 558 75</a>
                         <a href="#" class="d-sm-inline-block d-block"> customerservice@tsllimited.com</a>
                     </div>
                     <!-- end footer column -->
                     <!-- start footer column -->
-                    <div class="col-lg-3 col-md-10 col-sm-6 text-md-center text-lg-start order-last order-sm-4">
+                    <div class="col-lg-3 col-md-6 col-sm-6 text-md-center text-lg-start order-last order-sm-4">
                         <span class="fs-16 d-block text-white fw-500 mb-10px">Subscribe to our newsletter </span>
                         <p class="mb-20px fs-17 mx-auto xs-w-90">To get the latest news and updates.</p>
                         <div class="d-inline-block w-100 newsletter-style-02 position-relative mb-15px">
@@ -71,8 +67,8 @@
                     <!-- start footer menu -->
                     <div class="col-lg-7 pt-25px pb-25px md-pb-5px fs-16 order-1 order-lg-2 text-center text-lg-end">
                         <ul class="footer-navbar sm-lh-normal"> 
-                            <li><a href="#" class="nav-link">Privacy policy</a></li>
-                            <li><a href="#" class="nav-link">Terms and conditions</a></li>
+                            <li><a href="<?php echo base_url(); ?>/privacy" class="nav-link">Privacy policy</a></li>
+                            <li><a href="<?php echo base_url(); ?>/terms" class="nav-link">Terms and conditions</a></li>
                             <li><a href="#" class="nav-link">Copyright</a></li>
                         </ul>
                     </div>
@@ -122,9 +118,9 @@
                             "</div>",
                         patterns: {
                             youtube: {
-                                index: "youtube.com", // Pattern to match
+                                index: "youtube.com", 
                                 id: "v=", 
-                                src: "https://www.youtube.com/embed/%id%?autoplay=1", // Embed URL
+                                src: "https://www.youtube.com/embed/%id%?autoplay=1", 
                             },
                             vimeo: {
                                 index: "vimeo.com/",
@@ -137,7 +133,7 @@
                             },
                         },
                     },
-                    srcAction: "iframe_src", // Attribute to replace with the iframe source
+                    srcAction: "iframe_src",
                 });
             });
     
