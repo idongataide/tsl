@@ -159,5 +159,26 @@
             })();
         </script>
         <!--End of Tawk.to Script-->
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                const cookieModal = document.getElementById("cookies-model");
+                const acceptBtn = document.querySelector(".accept_cookies_btn");
+
+                // Check if cookies were already accepted
+                if (localStorage.getItem("cookiesAccepted") === "true") {
+                    cookieModal.style.display = "none";
+                } else {
+                    cookieModal.style.display = "block";
+                }
+
+                // Accept cookies
+                acceptBtn.addEventListener("click", function (e) {
+                    e.preventDefault();
+                    localStorage.setItem("cookiesAccepted", "true");
+                    cookieModal.style.display = "none";
+                });
+            });
+            </script>
+
     </body>
 </html>
