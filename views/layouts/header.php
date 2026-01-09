@@ -59,7 +59,7 @@
                                     <a href="<?php echo base_url(); ?>/about" class="nav-link <?php echo $menu_active === 'about' ? 'active' : ''; ?>">Who we are</a>
                                     <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
-                                        <li><a href="<?php echo base_url(); ?>/about">About Us</a></li>
+                                        <li><a href="<?php echo base_url(); ?>/about">About Tsl</a></li>
                                         <li><a href="<?php echo base_url(); ?>/about/leadership">Our Leadership</a></li>                                       
                                         <li><a href="<?php echo base_url(); ?>/about/gallery">Gallery</a></li>                                       
                                         <li><a href="<?php echo base_url(); ?>/about/videos">Videos</a></li>                                       
