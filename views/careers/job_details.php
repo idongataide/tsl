@@ -16,9 +16,8 @@ $job = $data['job'] ?? [];
                     </span>
                 </h2>
                 <div class="text-white mt-3">
-                    <span class="badge bg-primary me-2"><?= htmlspecialchars($job['department'] ?? '') ?></span>
+                    <span class="badge bg-danger me-2"><?= htmlspecialchars($job['department'] ?? '') ?></span>
                     <span class="badge bg-secondary me-2"><?= ucfirst($job['location'] ?? '') ?></span>
-                    <span class="badge bg-info">Ref: <?= $job['reference'] ?? '' ?></span>
                 </div>
             </div> 
         </div>
