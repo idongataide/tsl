@@ -83,12 +83,33 @@ class careers extends ServerController
 
     public function experienced_hires()
     {
+        $curl = curl_init();
+            curl_setopt_array($curl, [
+            CURLOPT_URL => 'https://tslapi.ufainiibom.com/api/jobs',
+            CURLOPT_RETURNTRANSFER => true,
+            CURLOPT_CUSTOMREQUEST => 'GET',
+            CURLOPT_HTTPHEADER => [
+                'Content-Type: application/json',
+                'Accept: application/json',
+                // 'Cache-Control: no-cache',
+            ],
+    
+            CURLOPT_SSL_VERIFYHOST => false,
+            CURLOPT_SSL_VERIFYPEER => false,
+        ]);
+    
+        $response = curl_exec($curl);
+        curl_close($curl);
+        $decodedResponse = json_decode($response, true);
+        
+        $data['jobs'] = $decodedResponse['data'] ?? [];
         $data['page_title'] = 'Experience Hires';
         $data['type'] = 'service';
         $data['service'] = 'Experience Hires';
         $data['menu_active'] = 'experienced_hires';
         $this->loadView('careers/experienced_hires',  @$data);
     }
+
 
     
 
@@ -101,22 +122,114 @@ class careers extends ServerController
         $this->loadView('careers/DepartmentalPositions',  @$data);
     }
 
-    public function job_details()
-    {
-        $data['page_title'] = 'Job Details';
-        $data['type'] = 'service';
-        $data['service'] = 'Job Details';
-        $data['menu_active'] = 'job_details';
-        $this->loadView('careers/job_details',  @$data);
-    }
+    
+    public function job_details($id)
+        {
+            $curl = curl_init();
+            curl_setopt_array($curl, [
+                CURLOPT_URL => 'https://tslapi.ufainiibom.com/api/jobs',
+                CURLOPT_RETURNTRANSFER => true,
+                CURLOPT_CUSTOMREQUEST => 'GET',
+                CURLOPT_HTTPHEADER => [
+                    'Content-Type: application/json',
+                    'Accept: application/json',
+                ],
+                CURLOPT_SSL_VERIFYHOST => false,
+                CURLOPT_SSL_VERIFYPEER => false,
+            ]);
 
+            $response = curl_exec($curl);
+            curl_close($curl);
+            $decodedResponse = json_decode($response, true);
+            
+            $allJobs = $decodedResponse['data'] ?? [];
+            
+            // Find the specific job
+            $job = [];
+            foreach ($allJobs as $jobItem) {
+                if ($jobItem['id'] == $id) {
+                    $job = $jobItem;
+                    break;
+                }
+            }
+            $relatedJobs = [];
+            if (!empty($job)) {
+                foreach ($allJobs as $jobItem) {
+                    if ($jobItem['id'] != $id && $jobItem['department'] == $job['department']) {
+                        $relatedJobs[] = $jobItem;
+                    }
+                }
+            }
+            
+            $data['job'] = $job;
+            $data['relatedJobs'] = array_slice($relatedJobs, 0, 3); 
+            $data['page_title'] = $job['title'] ?? 'Job Details';
+            $data['type'] = 'service';
+            $data['service'] = 'Career';
+            $data['menu_active'] = 'careers';
+            
+            $this->loadView('careers/job_details', $data);
+        }
+
+  
     public function available_positions()
-    {
-        $data['page_title'] = 'Available Positions';
-        $data['type'] = 'service';
-        $data['service'] = 'Available Positions';
-        $data['menu_active'] = 'available_positions';
-        $this->loadView('careers/available_positions',  @$data);
+        {
+            // Fetch jobs from API
+            $curl = curl_init();
+            curl_setopt_array($curl, [
+                CURLOPT_URL => 'https://tslapi.ufainiibom.com/api/jobs',
+                CURLOPT_RETURNTRANSFER => true,
+                CURLOPT_CUSTOMREQUEST => 'GET',
+                CURLOPT_HTTPHEADER => [
+                    'Content-Type: application/json',
+                    'Accept: application/json',
+                ],
+                CURLOPT_SSL_VERIFYHOST => false,
+                CURLOPT_SSL_VERIFYPEER => false,
+            ]);
+
+            $response = curl_exec($curl);
+            $error = curl_error($curl);
+            curl_close($curl);
+
+            $decodedResponse = json_decode($response, true);
+            
+            $jobs = [];
+            if (isset($decodedResponse['data']) && is_array($decodedResponse['data'])) {
+                foreach ($decodedResponse['data'] as $job) {
+                    // Only include published jobs
+                    if (isset($job['isPublished']) && $job['isPublished'] == '1') {
+                        $jobs[] = $job;
+                    }
+                }
+            }
+            
+            usort($jobs, function($a, $b) {
+                $dateA = strtotime($a['datePosted'] ?? '1970-01-01');
+                $dateB = strtotime($b['datePosted'] ?? '1970-01-01');
+                return $dateB - $dateA;
+            });
+
+              $departments = [];
+            foreach ($jobs as $job) {
+                if (isset($job['department']) && !in_array($job['department'], $departments)) {
+                    $departments[] = $job['department'];
+                }
+            }
+            sort($departments);
+
+            $data['jobs'] = $jobs;
+            $data['departments'] = $departments;
+            $data['total_jobs'] = count($jobs);
+            $data['page_title'] = 'Available Positions';
+            $data['type'] = 'service';
+            $data['service'] = 'Available Positions';
+            $data['menu_active'] = 'available_positions';
+            if ($error) {
+                $data['api_error'] = $error;
+            }
+            
+            $this->loadView('careers/available_positions', $data);
     }
 
     public function drivers()
