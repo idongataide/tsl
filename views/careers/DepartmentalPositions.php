@@ -45,10 +45,7 @@
 
 
 
-<section class="bg-light position-relative overlap-height">
-    <!-- <div class="position-absolute- left-minus-200px top-25-" data-bottom-top="transform: translateY(-80px)" data-top-bottom="transform: translateY(80px)">
-        <img src="<?php echo base_url(); ?>/assets/img/careers/demo-elearning-bg-04.webp" alt="">
-    </div> -->
+<section class="bg-light position-relative overlap-height">   
     <div class="container overlap-gap-section">
         <div class="row align-items-center mb-4">
             <div class="col-xl-6 lg-mb-30px text-center text-xl-start">
@@ -88,8 +85,11 @@
                                                     <i class="feather icon-feather-map-pin text-dark-gray d-inline-block me-5px"></i><span class="fs-16 text-dark-gray fw-500"><?= $job['location']; ?></span>
                                                 </div>
                                                 <div>
-                                                    <a href="#" class="btn btn-link-gradient expand btn-extra-large text-dark-gray d-table d-lg-inline-block xl-mb-15px md-mx-auto">View Details<span class="bg-dark-gray"></span></a>
-                                                </div>  
+                                                    <a href="<?= base_url() ?>/careers/job_details/<?= $job['id'] ?>" class="text-dark-gray d-table d-lg-inline-block xl-mb-15px md-mx-auto">
+                                                        View <i class="feather icon-feather-arrow-right ms-5px"></i>
+                                                    </a>          
+                                               </div>  
+                                                
                                             </div>
                                         </div>
                                     </div>
