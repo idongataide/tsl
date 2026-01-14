@@ -125,16 +125,6 @@ $departments = isset($data['departments']) ? $data['departments'] : [];
             </div>
         </div>
         <?php endif; ?>
-        
-        <!-- Additional info -->
-        <div class="row mt-5">
-            <div class="col-12 text-center">
-                <div class="alert alert-light border-radius-6px p-4 d-inline-block">
-                    <p class="mb-2 text-dark-gray"><i class="feather icon-feather-info me-2"></i>Can't find a suitable position? Send us your CV anyway at <a href="mailto:careers@tsllimited.com" class="text-primary fw-600">careers@tsllimited.com</a></p>
-                    <p class="mb-0 text-dark-gray">We keep all applications on file for future opportunities.</p>
-                </div>
-            </div>
-        </div>
     </div>
 </section>
 
