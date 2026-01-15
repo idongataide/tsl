@@ -124,52 +124,54 @@ class careers extends ServerController
 
     
     public function job_details($id)
-        {
-            $curl = curl_init();
-            curl_setopt_array($curl, [
-                CURLOPT_URL => 'https://tslapi.ufainiibom.com/api/jobs',
-                CURLOPT_RETURNTRANSFER => true,
-                CURLOPT_CUSTOMREQUEST => 'GET',
-                CURLOPT_HTTPHEADER => [
-                    'Content-Type: application/json',
-                    'Accept: application/json',
-                ],
-                CURLOPT_SSL_VERIFYHOST => false,
-                CURLOPT_SSL_VERIFYPEER => false,
-            ]);
+    {
+        $curl = curl_init();
+        curl_setopt_array($curl, [
+            CURLOPT_URL => 'https://tslapi.ufainiibom.com/api/job/' . $id,
+            CURLOPT_RETURNTRANSFER => true,
+            CURLOPT_CUSTOMREQUEST => 'GET',
+            CURLOPT_HTTPHEADER => [
+                'Content-Type: application/json',
+                'Accept: application/json',
+            ],
+            CURLOPT_SSL_VERIFYHOST => false,
+            CURLOPT_SSL_VERIFYPEER => false,
+        ]);
 
-            $response = curl_exec($curl);
-            curl_close($curl);
-            $decodedResponse = json_decode($response, true);
-            
-            $allJobs = $decodedResponse['data'] ?? [];
-            
-            // Find the specific job
-            $job = [];
+        $response = curl_exec($curl);
+        curl_close($curl);
+
+        $decodedResponse = json_decode($response, true);
+
+        $job = $decodedResponse['data'] ?? [];
+
+        // OPTIONAL: fetch all jobs for related jobs
+        $relatedJobs = [];
+        if (!empty($job)) {
+            $allJobsResponse = file_get_contents('https://tslapi.ufainiibom.com/api/jobs');
+            $allJobsDecoded = json_decode($allJobsResponse, true);
+            $allJobs = $allJobsDecoded['data'] ?? [];
+
             foreach ($allJobs as $jobItem) {
-                if ($jobItem['id'] == $id) {
-                    $job = $jobItem;
-                    break;
+                if (
+                    $jobItem['id'] != $job['id'] &&
+                    $jobItem['department'] == $job['department']
+                ) {
+                    $relatedJobs[] = $jobItem;
                 }
             }
-            $relatedJobs = [];
-            if (!empty($job)) {
-                foreach ($allJobs as $jobItem) {
-                    if ($jobItem['id'] != $id && $jobItem['department'] == $job['department']) {
-                        $relatedJobs[] = $jobItem;
-                    }
-                }
-            }
-            
-            $data['job'] = $job;
-            $data['relatedJobs'] = array_slice($relatedJobs, 0, 3); 
-            $data['page_title'] = $job['title'] ?? 'Job Details';
-            $data['type'] = 'service';
-            $data['service'] = 'Career';
-            $data['menu_active'] = 'careers';
-            
-            $this->loadView('careers/job_details', $data);
         }
+
+        $data['job'] = $job;
+        $data['relatedJobs'] = array_slice($relatedJobs, 0, 3);
+        $data['page_title'] = $job['title'] ?? 'Job Details';
+        $data['type'] = 'service';
+        $data['service'] = 'Career';
+        $data['menu_active'] = 'careers';
+
+        $this->loadView('careers/job_details', $data);
+    }
+
 
   
     public function available_positions()
