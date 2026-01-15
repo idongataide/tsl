@@ -143,9 +143,9 @@ img {
   max-width: 100%;
   height: auto;
 }
-ul li {
+/* ul li {
   list-style: none;
-}
+} */
 a {
   -webkit-transition: 0.3s;
   transition: 0.3s;
