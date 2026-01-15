@@ -29,7 +29,8 @@ class helper
         if (!is_null($code)) {
             $response['code'] = $code;
         }
-        $response['error'] = $message;
+        $response['alert'] = 'alert-danger';
+        $response['message'] = $message;
         $response['status'] = 'error';
         echo json_encode($response);
     }

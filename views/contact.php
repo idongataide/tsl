@@ -111,9 +111,12 @@
                     </div>
                 </div>
                 <div class="row row-cols-md-1 justify-content-center">
-                    <div class="col-xl-9 overflow-hidden">
-                        <!-- start contact form -->
-                        <form action="email-templates/contact-form.php" method="post" class="row contact-form-style-01">
+                    <div class="col-xl-9 overflow-hidden contact-form">
+                       
+                        <form action="<?php echo base_url(); ?>/contact/index" method="post" class="row contact-form-style-01">
+                            <div class="col-12">
+                                <div class="form-results mt-20px d-none"></div>
+                            </div> 
                             <div class="col-md-6 mb-20px">
                                 <div class="position-relative form-group">
                                     <span class="form-icon"><i class="bi bi-person"></i></span>
@@ -156,9 +159,7 @@
                                     </span>
                                 </button>
                             </div>
-                            <div class="col-12">
-                                <div class="form-results mt-20px d-none"></div>
-                            </div>
+                          
                         </form>
                         <!-- end contact form -->
                     </div>

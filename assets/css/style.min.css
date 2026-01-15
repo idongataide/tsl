@@ -154,6 +154,10 @@ a:hover {
   color: var(--base-color);
 }
 
+.form-results {
+  font-size: 14px;
+}
+
 .fw-500{
   font-weight: 500;
 }

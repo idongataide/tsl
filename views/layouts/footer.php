@@ -146,39 +146,49 @@
             });
         });
         </script>
-        <!--Start of Tawk.to Script-->
-        <script type="text/javascript">
-            var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-            (function(){
-            var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-            s1.async=true;
-            s1.src='https://embed.tawk.to/68de89f228fea3194d8c3824/1j6ikln4s';
-            s1.charset='UTF-8';
-            s1.setAttribute('crossorigin','*');
-            s0.parentNode.insertBefore(s1,s0);
-            })();
-        </script>
-        <!--End of Tawk.to Script-->
         <script>
-            document.addEventListener("DOMContentLoaded", function () {
-                const cookieModal = document.getElementById("cookies-model");
-                const acceptBtn = document.querySelector(".accept_cookies_btn");
+                document.addEventListener("DOMContentLoaded", function () {
+                    const form = document.querySelector(".contact-form form");
+                    const resultBox = form.querySelector(".form-results");
 
-                // Check if cookies were already accepted
-                if (localStorage.getItem("cookiesAccepted") === "true") {
-                    cookieModal.style.display = "none";
-                } else {
-                    cookieModal.style.display = "block";
-                }
+                    form.addEventListener("submit", function (e) {
+                        e.preventDefault();
 
-                // Accept cookies
-                acceptBtn.addEventListener("click", function (e) {
-                    e.preventDefault();
-                    localStorage.setItem("cookiesAccepted", "true");
-                    cookieModal.style.display = "none";
+                        resultBox.classList.remove("d-none");
+                        resultBox.innerHTML = "Sending message...";
+
+                        const formData = new FormData(form);
+
+                        fetch(form.action, {
+                            method: "POST",
+                            body: formData
+                        })
+                        .then(res => res.json())
+                        .then(data => {
+                            if (data.status === "success") {
+                                resultBox.innerHTML = `
+                                    <div class="alert alert-success">
+                                        ${data.message}
+                                    </div>
+                                `;
+                                form.reset();
+                            } else {
+                                resultBox.innerHTML = `
+                                    <div class="alert alert-danger">
+                                        ${data.message}
+                                    </div>
+                                `;
+                            }
+                        })
+                        .catch(() => {
+                            resultBox.innerHTML = `
+                                <div class="alert alert-danger">
+                                    Something went wrong. Please try again.
+                                </div>
+                            `;
+                        });
+                    });
                 });
-            });
-            </script>
-
+                </script>
     </body>
 </html>
