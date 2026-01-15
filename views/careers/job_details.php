@@ -193,7 +193,7 @@ $job = $data['job'] ?? [];
                                         </div>
                                         <div>
                                             <a href="<?= base_url() ?>/careers/job_details/<?= $relatedJob['id'] ?>" class="btn btn-link-gradient expand btn-extra-large text-dark-gray d-table d-lg-inline-block xl-mb-15px md-mx-auto">
-                                                View Details<span class="bg-dark-gray"></span>
+                                                 View <i class="feather icon-feather-arrow-right ms-5px"></i>
                                             </a>
                                         </div>  
                                     </div>
