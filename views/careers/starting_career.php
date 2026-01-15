@@ -153,7 +153,7 @@
         <div class="row">
             <div class="col-xxl-4 col-lg-7" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 300, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <div class="position-sticky top-100px">
-                    <span class="fs-70 xl-fs-65 lg-fs-55 fw-700 mb-45px d-inline-block text-black ls-minus-3px xs-ls-minus-2px">Internships</span>
+                    <span class="fs-60 xl-fs-65 lg-fs-55 fw-700 mb-45px d-inline-block text-black ls-minus-3px xs-ls-minus-2px">Internships</span>
                 </div>
             </div>
             <div class="col-xxl-6 col-lg-5 offset-xxl-1" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 300, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
