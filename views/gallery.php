@@ -7,9 +7,9 @@
                     <span class="d-inline-block" data-anime='{ "translateY": [30, 0], "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "staggervalue": 300 }'>Transport Services Limited</span>
                 </h1>
                 <h2 class="m-auto pb-5px pt-5px text-white fw-600 ls-minus-1px overflow-hidden">
-                    <span class="d-inline-block" data-anime='{ "translateY": [30, 0], "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "staggervalue": 300, "delay": 200 }'>Video Gallery</span>
+                    <span class="d-inline-block" data-anime='{ "translateY": [30, 0], "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "staggervalue": 300, "delay": 200 }'>Our Gallery</span>
                 </h2>
-                <p class="text-white">View our latest video clips showcasing the company's journey and achievements</p>
+                <!-- <p class="text-white">A leading provider of customized logistics and transportation solution in Nigeria</p> -->
             </div> 
         </div>
     </div>
