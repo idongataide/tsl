@@ -33,7 +33,7 @@
             <!-- <nav class="navbar navbar-expand-lg header-light bg-white responsive-sticky"> -->
                 <div class="container-fluid">
                     <div class="col-auto col-lg-2 me-lg-0 me-auto">
-                        <a class="navbar-brand" href="<?php echo base_url(); ?>/">
+                        <a class="navbar-brand" href="<?php echo base_url(); ?>/home">
                             <img src="<?php echo base_url(); ?>/assets/img/logo/logo-01.webp" alt="" class="default-logo">
                             <img src="<?php echo base_url(); ?>/assets/img/logo/logo-01.webp" alt="" class="alt-logo">
                             <img src="<?php echo base_url(); ?>/assets/img/logo/logo-01.webp" alt="" class="mobile-logo"> 
@@ -53,7 +53,7 @@
                                 $career_menu_active = @$data['career_menu_active'] ?? '';
                                 ?>
                                 <li class="nav-item">
-                                    <a href="<?php echo base_url(); ?>/" class="nav-link <?php echo $menu_active === 'index' ? 'active' : ''; ?>">Home</a>
+                                    <a href="<?php echo base_url(); ?>/home" class="nav-link <?php echo $menu_active === 'index' ? 'active' : ''; ?>">Home</a>
                                 </li>
                                 <li class="nav-item dropdown dropdown-with-icon-style02">
                                     <a href="<?php echo base_url(); ?>/about" class="nav-link <?php echo $menu_active === 'about' ? 'active' : ''; ?>">Who we are</a>
