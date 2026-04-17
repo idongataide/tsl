@@ -91,7 +91,7 @@
                     </div>
                     <div class="col-lg-5 bg-white">
                         <div class="pt-13 pb-12 ps-15 pe-15 lg-ps-9 lg-pe-9 lg-pt-12 last-paragraph-no-margin">
-                            <a href="<?php echo base_url(); ?>/home"><h5 class="alt-font fs-20 fw-400 text-primary mb-20px ls-minus-1px d-inline-block">Transport Services Limited</h5></a>
+                            <a href="<?php echo base_url(); ?>/home"><h3 class="alt-font fs-22 fw-400 text-primary mb-20px ls-minus-1px d-inline-block">Transport Services Limited</h3></a>
                             <p class="fs-15">Transport Services Limited is a leading provider of integrated mobility and haulage solutions, delivering seamless end-to-end transportation of people, goods, and raw materials from 
                                source to final destination; leveraging skilled professionals, strategic partnerships, modern fleet assets, and advanced mobility and supply chain systems, 
                                the company ensures efficient, reliable, and sustainable logistics delivery while driving innovation and operational excellence to enable smarter, more connected supply chains across Africa.</p>
@@ -109,7 +109,7 @@
                     </div>
                     <div class="col-lg-5 bg-white">
                         <div class="pt-13 pb-12 ps-15 pe-15 lg-ps-9 lg-pe-9 lg-pt-12 last-paragraph-no-margin">
-                            <a href="http://site.tsllogisticsltd.com/"><h5 class="alt-font fs-20 fw-400 text-primary mb-20px ls-minus-1px d-inline-block">TSL Logistics Limited</h5></a>
+                            <a href="http://site.tsllogisticsltd.com/"><h3 class="alt-font fs-22 fw-400 text-primary mb-20px ls-minus-1px d-inline-block">TSL Logistics Limited</h3></a>
                             <p>We are a leading energy infrastructure development, operations, and management company delivering world-class, technology-driven energy solutions. 
                                We design, build, and operate critical infrastructure across the energy value chain, combining deep industry expertise with innovative digital capabilities to ensure efficiency, 
                                reliability, and sustainability.
@@ -128,7 +128,7 @@
                     </div>
                     <div class="col-lg-5 bg-white">
                         <div class="pt-13 pb-12 ps-15 pe-15 lg-ps-9 lg-pe-9 lg-pt-12 last-paragraph-no-margin">
-                            <a href="https://tml.tsllimited.com/"><h5 class="alt-font fs-20 fw-400 text-primary mb-20px ls-minus-1px d-inline-block">TSL Metroline Limited</h5></a>
+                            <a href="https://tml.tsllimited.com/"><h3 class="alt-font fs-22 fw-400 text-primary mb-20px ls-minus-1px d-inline-block">TSL Metroline Limited</h3></a>
                             <p>TSL Metroline Limited (TML) is a licensed Bus Operating Company committed to transforming urban transit. With a focus on delivering modern, efficient, and reliable bus services.</p>
                             <a class="text-primary fw-500" href="https://tml.tsllimited.com/">Get Started <i class="feather icon-feather-arrow-right"></i></a>
                         </div>                       
