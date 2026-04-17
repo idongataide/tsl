@@ -6,10 +6,10 @@
             <div class="row justify-content-center">
                 <div class="col-lg-10">
                     <h3 class="alt-font fw-700 text-dark-gray ls-minus-2px mb-0">
-                        <?php echo htmlspecialchars($leader['title'], ENT_QUOTES, 'UTF-8'); ?>
+                        <?php echo htmlspecialchars($leader['name'], ENT_QUOTES, 'UTF-8'); ?>
                     </h3>
                      <span class="fs-18 mb-3 d-inline-block" style="color:#a21615">
-                        <?php echo htmlspecialchars($leader['sub_title'], ENT_QUOTES, 'UTF-8'); ?>
+                        <?php echo htmlspecialchars($leader['role'], ENT_QUOTES, 'UTF-8'); ?>
                     </span>  
                     <a href="javascript:history.back();">
                         <div style="display: flex !important; width: 150px; margin:auto; align-items: center; justify-content: center;" class="bg-white border border-color-extra-medium-gray box-shadow-extra-large fw-700 text-dark-gray text-uppercase border-radius-30px ps-20px pe-20px fs-12 me-10px sm-m-5px d-inline-block align-middle">
@@ -28,9 +28,8 @@
             <div class="col-lg-12">
                 <div class="row">
                     <div class="col-lg-10 m-auto last-paragraph-no-margin text-md-start-">
-                        <p><?php echo htmlspecialchars($leader['p_1'], ENT_QUOTES, 'UTF-8'); ?></p>
-                        <p><?php echo htmlspecialchars($leader['p_2'], ENT_QUOTES, 'UTF-8'); ?></p>
-                        <p><?php echo htmlspecialchars($leader['p_3'], ENT_QUOTES, 'UTF-8'); ?></p>
+                        <p><?php echo htmlspecialchars($leader['bio'], ENT_QUOTES, 'UTF-8'); ?></p>
+                       
                     </div>
                 </div>
             </div>

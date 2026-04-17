@@ -19551,3 +19551,7 @@ background-image: linear-gradient(to right, #009090, #008080, #44a181, #008080, 
 .terms-section p{
   text-align: justify !important;
 }
+
+.text-pale-red{
+  color:#D64556;
+}

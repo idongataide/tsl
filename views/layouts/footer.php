@@ -4,7 +4,7 @@
                 <div class="row justify-content-center pt-8 sm-pt-40px text-sm-start text-center">
                     <!-- start footer column -->
                     <div class="col-xl-2 col-lg-4 col-md-6 col-sm-6 md-mb-30px">
-                        <a href="index.php" class="footer-logo mb-20px d-inline-block"> 
+                        <a href="/home" class="footer-logo mb-20px d-inline-block"> 
                             <img src="<?php echo base_url(); ?>/assets/img/logo/logo-02.webp" alt="">
                         </a>
                         <p class="fs-17 mx-auto xs-w-90">A leading provider of customized logistics and transportation solution in Nigeria</p> 

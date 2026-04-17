@@ -6,13 +6,22 @@ class home extends ServerController
     {
     }
 
+    public function landing()
+    {    
+        $data['page_title'] = 'TSL - Transport Company';
+        $data['menu_active'] = 'index';
+        $data['latest'] = $this->latestnews();
+
+        $this->displayView('landing', @$data);
+    }
+
     public function index()
     {    
         $data['page_title'] = 'TSL - Transport Company';
         $data['menu_active'] = 'index';
         $data['latest'] = $this->latestnews();
 
-        $this->renderView('index', @$data);
+        $this->loadView('index', @$data);
     }
 
     private function latestnews()

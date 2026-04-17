@@ -36,7 +36,7 @@ class ServerController
 
                         return;
                     }
-                    $rClass->index(); //cal the index function
+                    $rClass->landing(); //cal the index function
                 }
             } else {
                 //throw exception if there's no file name home.php in the controller
@@ -176,6 +176,14 @@ class ServerController
         require_once __DIR__.'/../views/'.$path.'.php';
         require_once __DIR__.'/../views/layouts/footer.php';
     }
+
+     public function displayView($path, $data = null)
+    {
+        require_once __DIR__.'/../views/layouts/header-2.php';
+        require_once __DIR__.'/../views/'.$path.'.php';
+        require_once __DIR__.'/../views/layouts/footer-2.php';
+    }
+
 
     public function loadView($path, $data = null)
     {
