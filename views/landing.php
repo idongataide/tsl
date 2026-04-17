@@ -29,7 +29,7 @@
                                     <span class="fs-15 d-block mb-15px ls-4px text-uppercase" data-anime='{ "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "delay": 200 }'>TSL Logistics Limited</span>
                                     <div class="alt-font fs-55 sm-fs-60 fw-600 xs-fs-40 mb-10px w-80 lg-w-100 md-w-100 sm-w-100 sm-mb-35px anime-text ls-minus-2px" data-fancy-text='{ "opacity": [0, 1], "translateY": [50, 0], "string": ["Africas Largest Independent Petroleum Terminal management Company"], "duration": 500, "delay": 200, "speed": 10, "easing": "easeOutQuad" }'></div>  
                                     <!-- <div style=""><span class="fs-18 w-60 md-w-100 mb-25px fw-300 d-inline-block" data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>At TSL, we envision a future where sustainability is not just a goal but a fundamental aspect of how we operate, ensuring a resilient and thriving future for all.</span></div> -->
-                                    <a target="_blank" href="http://tsllog.tsllogisticsltd.com/" class="btn btn-large btn-primary btn-switch-text btn-box-shadow fw-400">
+                                    <a target="_blank" href="https://tsllog.tsllogisticsltd.com/" class="btn btn-large btn-primary btn-switch-text btn-box-shadow fw-400">
                                         <span> 
                                             <span class="btn-double-text" data-text="More Details">Get Started</span> 
                                             <span><i class="feather icon-feather-arrow-right"></i></span>
@@ -109,12 +109,12 @@
                     </div>
                     <div class="col-lg-5 bg-white">
                         <div class="pt-13 pb-12 ps-15 pe-15 lg-ps-9 lg-pe-9 lg-pt-12 last-paragraph-no-margin">
-                            <a href="http://site.tsllogisticsltd.com/"><h3 class="alt-font fs-24 fw-400 text-primary mb-20px ls-minus-1px d-inline-block">TSL Logistics Limited</h3></a>
+                            <a href="https://tsllog.tsllogisticsltd.com/"><h3 class="alt-font fs-24 fw-400 text-primary mb-20px ls-minus-1px d-inline-block">TSL Logistics Limited</h3></a>
                             <p>We are a leading energy infrastructure development, operations, and management company delivering world-class, technology-driven energy solutions. 
                                We design, build, and operate critical infrastructure across the energy value chain, combining deep industry expertise with innovative digital capabilities to ensure efficiency, 
                                reliability, and sustainability.
                             </p>
-                            <a class="text-primary fw-500" href="http://tsllog.tsllogisticsltd.com/">Get Started <i class="feather icon-feather-arrow-right"></i></a>
+                            <a class="text-primary fw-500" href="https://tsllog.tsllogisticsltd.com/">Get Started <i class="feather icon-feather-arrow-right"></i></a>
                         </div>                       
                     </div>
                 </div>

@@ -24,7 +24,7 @@
                             <a href="#" class="fs-16 d-block mb-10px">Phone: +2348002255875</a>
                         </div>
                         <div class="col-lg-4 col-md-6  xs-mb-30px">
-                            <a href="http://tsllog.tsllogisticsltd.com/">
+                            <a href="https://tsllog.tsllogisticsltd.com/">
                               <span class="fs-16 d-block text-pale-red fw-500 mb-10px">TSL Logistics Limited</span>
                             </a>                            <a href="#" class="fs-16 d-block mb-10px">14A/14B, Adedeji Adekola Close, Off Freedom Way. Lekki Phase 1 , Lagos</a>
                             <a href="#" class="fs-16 d-block mb-10px">Email: info@tsllogisticsltd.com</a>
