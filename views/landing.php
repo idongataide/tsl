@@ -26,7 +26,7 @@
                         <div class="container h-100">
                             <div class="row align-items-center h-100 justify-content-start">
                                 <div class="col-xl-10 col-lg-9 position-relative text-white">
-                                    <span class="fs-15 d-block mb-15px ls-4px text-uppercase" data-anime='{ "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "delay": 200 }'>Transport Services Logistics</span>
+                                    <span class="fs-15 d-block mb-15px ls-4px text-uppercase" data-anime='{ "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "delay": 200 }'>TSL Logistics Limited</span>
                                     <div class="alt-font fs-55 sm-fs-60 fw-600 xs-fs-40 mb-10px w-80 lg-w-100 md-w-100 sm-w-100 sm-mb-35px anime-text ls-minus-2px" data-fancy-text='{ "opacity": [0, 1], "translateY": [50, 0], "string": ["Africas Largest Independent Petroleum Terminal management Company"], "duration": 500, "delay": 200, "speed": 10, "easing": "easeOutQuad" }'></div>  
                                     <!-- <div style=""><span class="fs-18 w-60 md-w-100 mb-25px fw-300 d-inline-block" data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>At TSL, we envision a future where sustainability is not just a goal but a fundamental aspect of how we operate, ensuring a resilient and thriving future for all.</span></div> -->
                                     <a target="_blank" href="https://site.tsllogisticsltd.com/" class="btn btn-large btn-primary btn-switch-text btn-box-shadow fw-400">
@@ -45,7 +45,7 @@
                         <div class="container h-100">
                             <div class="row align-items-center h-100 justify-content-start">
                                 <div class="col-xl-10 col-lg-9 position-relative text-white">
-                                    <span class="fs-15 d-block mb-15px ls-4px text-uppercase" data-anime='{ "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "delay": 200 }'>Transport Metroline Limited</span>
+                                    <span class="fs-15 d-block mb-15px ls-4px text-uppercase" data-anime='{ "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "delay": 200 }'>TSL Metroline Limited</span>
                                     <div class="alt-font fs-60 sm-fs-60 fw-600 xs-fs-40 mb-10px w-80 lg-w-100 md-w-100 sm-w-100 sm-mb-35px anime-text ls-minus-2px" data-fancy-text='{ "opacity": [0, 1], "translateY": [50, 0], "string": ["Redefining Passenger Transport in West Africa"], "duration": 500, "delay": 200, "speed": 10, "easing": "easeOutQuad" }'></div>  
                                     <!-- <div style=""><span class="fs-18 w-60 md-w-100 mb-25px fw-300 d-inline-block" data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>Operating in a challenging industry that significantly contributes to economic prosperity, TSL is deeply committed to the highest standards of Health, Safety, Security, Environment, and Quality (HSSEQ)</span></div> -->
                                     <a href="https://tml.tsllimited.com/" class="btn btn-large btn-primary btn-switch-text btn-box-shadow fw-400">
