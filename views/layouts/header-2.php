@@ -66,18 +66,18 @@
                             </ul>
                         </div>
                     </div>
-                    <!-- <div class="col-auto col-lg-2 text-end d-none d-sm-flex">
+                    <div class="col-auto col-lg-2 text-end d-none d-sm-flex">
                         <div class="header-icon"> 
-                            <div class="header-button">                                
+                            <!-- <div class="header-button">                                
                                 <a href="<?php echo base_url(); ?>/contact" class="btn btn-large btn-primary btn-switch-text btn-box-shadow fw-400">
                                     <span> 
                                         <span class="btn-double-text" data-text="Contact Us">Contact Us</span> 
                                         <span><i class="feather icon-feather-arrow-right"></i></span>
                                     </span>
                                 </a>  
-                            </div>
+                            </div> -->
                         </div>  
-                    </div> -->
+                    </div>
                 </div>
             </nav>
         </header>
