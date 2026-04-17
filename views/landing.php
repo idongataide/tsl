@@ -85,7 +85,7 @@
                    <div class="col-lg-7 md-h-400px sm-h-300px text-center">
                         <div class="swiper h-100 swiper-pagination-style-3 magic-cursor" data-slider-options='{ "slidesPerView": 1, "spaceBetween": 10, "loop": true, "pagination": { "el": ".slider-four-slide-pagination-1", "clickable": true }, "autoplay": { "delay": 10000, "disableOnInteraction": false }, "navigation": { "nextEl": ".slider-one-slide-next-1", "prevEl": ".slider-one-slide-prev-1" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1400": { "slidesPerView": 1 }, "1200": { "slidesPerView": 1 }, "992": { "slidesPerView": 1 }, "768": { "slidesPerView": 1 } }, "effect": "slide" }'>
                             <div class="swiper-wrapper">
-                                <div class="swiper-slide cover-background" style="background-image: url(<?php echo base_url(); ?>/assets/img/tsl1.png)"></div>
+                                <div class="swiper-slide cover-background" style="background-image: url(<?php echo base_url(); ?>/assets/img/tsl1.jpg)"></div>
                             </div>
                         </div>
                     </div>
