@@ -12,7 +12,7 @@
                     <!-- end footer column -->
                     <!-- start footer column -->
                     <div class="col-lg-9">
-                       <span class="fs-18 text-center d-block text-white fw-500 mb-7px">Our Companies</span>
+                       <span class="fs-18 text-center d-block text-white fw-500 mb-10px">Our Companies</span>
                       <div class="row justify-content-center sm-pt-10px text-sm-start text-center">
 
                         <div class="col-lg-4 col-md-6 col-sm-5 md-mb-30px">
