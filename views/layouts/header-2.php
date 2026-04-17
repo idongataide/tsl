@@ -61,8 +61,8 @@
                                         Transport Services Limited
                                     </a>
                                 </li>
-                                <li class="nav-item"><a href="#" class="nav-link">TSL Logistics Limited</a></li> 
-                                <li class="nav-item"><a href="#" class="nav-link">TSL Metroline Limited</a></li> 
+                                <li class="nav-item"><a href="http://site.tsllogisticsltd.com/" class="nav-link">TSL Logistics Limited</a></li> 
+                                <li class="nav-item"><a href="https://tml.tsllimited.com/" class="nav-link">TSL Metroline Limited</a></li> 
                             </ul>
                         </div>
                     </div>
