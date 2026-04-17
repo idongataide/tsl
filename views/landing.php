@@ -2,7 +2,7 @@
             <div class="swiper full-screen ipad-top-space-margin swiper-number-pagination-style-01  drag-cursor base-color" data-slider-options='{ "slidesPerView": 1, "loop": true, "pagination": { "el": ".swiper-number", "clickable": true }, "navigation": { "nextEl": ".slider-one-slide-next-1", "prevEl": ".slider-one-slide-prev-1" }, "autoplay": { "delay": 15000, "disableOnInteraction": false },  "keyboard": { "enabled": true, "onlyInViewport": true }, "effect": "fade" }' data-number-pagination="1" data-anime-text='{ "translateY": [50,0], "opacity": [0,1], "easing": "easeOutQuad", "duration": 500, "delay": { "staggervalue": 20 } }'>
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <div class="position-absolute start-0 top-0px w-100 h-100 cover-background" style="background-image:url('<?php echo base_url(); ?>/assets/img/bg/truck.webp');" data-anime='{ "translateY": [0, 0], "opacity": [1,1], "scale": [1,1.1], "duration": 7000, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'></div>
+                        <div class="position-absolute start-0 top-0px w-100 h-100 cover-background" style="background-image:url('<?php echo base_url(); ?>/assets/img/4s.webp');" data-anime='{ "translateY": [0, 0], "opacity": [1,1], "scale": [1,1.1], "duration": 7000, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'></div>
                         <div class="opacity-medium gradient-black"></div>
                         <div class="container h-100">
                             <div class="row align-items-center h-100 justify-content-start">
