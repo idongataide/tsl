@@ -78,7 +78,7 @@
                 <div class="row justify-content-center mb-4">
                     <div class="col-xxl-4 col-lg-5 col-md-6 col-sm-7 text-center">
                         <h3 class="alt-font ls-minus-1px text-primary mb-2">Our Companies</h3>
-                        <span class="fs-15 mb-5px text-dark fw-500 ls-2px">Discover the range of companies that make up our group.</span>
+                        <span class="fs-15 mb-5px text-dark fw-500 ls-2px">Discover the range of companies that make up <br/> our group.</span>
                     </div>
                 </div>
                 <div class="row g-0 justify-content-center border-radius-6px overflow-hidden mb-8" data-anime='{ "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
