@@ -8,7 +8,7 @@
                             <div class="row align-items-center h-100 justify-content-start">
                                 <div class="col-xl-10 col-lg-9 position-relative text-white">
                                     <span class="fs-15 d-block mb-15px ls-4px text-uppercase" data-anime='{ "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "delay": 200 }'>Transport Services Limited</span>
-                                    <div class="alt-font fs-60 sm-fs-50 fw-600 xs-fs-40 mb-10px w-80 lg-w-100 md-w-100 sm-w-100 sm-mb-35px anime-text ls-minus-2px" data-fancy-text='{ "opacity": [0, 1], "translateY": [50, 0], "string": ["We are driven by our vision to transform logistics in Africa.."], "duration": 500, "delay": 200, "speed": 10, "easing": "easeOutQuad" }'></div>  
+                                    <div class="alt-font fs-60 sm-fs-50 fw-600 xs-fs-40 mb-10px w-80 lg-w-100 md-w-100 sm-w-100 sm-mb-35px anime-text ls-minus-2px" data-fancy-text='{ "opacity": [0, 1], "translateY": [50, 0], "string": ["We are driven by our vision to transform mobility  in Africa.."], "duration": 500, "delay": 200, "speed": 10, "easing": "easeOutQuad" }'></div>  
                                     <!-- <div style=""><span class="fs-18 w-60 md-w-100 mb-25px fw-300 d-inline-block" data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>TSL currently operates out of five (5) locations in the Western & Eastern regions of Nigeria, providing regional logistics in the oil & gas, mining & construction, FMCG & agricultural sectors.</span></div> -->
                                     <a href="<?php echo base_url(); ?>/home" class="btn btn-large btn-primary btn-switch-text btn-box-shadow fw-400">
                                         <span> 
@@ -77,7 +77,7 @@
             <div class="container overlap-gap-section">
                 <div class="row justify-content-center mb-4">
                     <div class="col-xxl-4 col-lg-5 col-md-6 col-sm-7 text-center">
-                        <h3 class="alt-font ls-minus-1px text-primary mb-2">Our Companies</h3>
+                        <h2 class="alt-font ls-minus-1px text-primary mb-2 text-center">Our Companies</h2>
                         <span class="fs-15 mb-5px text-dark fw-500 ls-2px">Discover the range of companies that make up <br/> our group.</span>
                     </div>
                 </div>
