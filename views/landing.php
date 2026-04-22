@@ -1,27 +1,8 @@
           <section class="p-0 bg-dark-gray">
             <div class="swiper full-screen ipad-top-space-margin swiper-number-pagination-style-01  drag-cursor base-color" data-slider-options='{ "slidesPerView": 1, "loop": true, "pagination": { "el": ".swiper-number", "clickable": true }, "navigation": { "nextEl": ".slider-one-slide-next-1", "prevEl": ".slider-one-slide-prev-1" }, "autoplay": { "delay": 15000, "disableOnInteraction": false },  "keyboard": { "enabled": true, "onlyInViewport": true }, "effect": "fade" }' data-number-pagination="1" data-anime-text='{ "translateY": [50,0], "opacity": [0,1], "easing": "easeOutQuad", "duration": 500, "delay": { "staggervalue": 20 } }'>
-                <div class="swiper-wrapper">
+                <div class="swiper-wrapper">                                      
                     <div class="swiper-slide">
-                        <div class="position-absolute start-0 top-0px w-100 h-100 cover-background" style="background-image:url('<?php echo base_url(); ?>/assets/img/4s.webp');" data-anime='{ "translateY": [0, 0], "opacity": [1,1], "scale": [1,1.1], "duration": 7000, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'></div>
-                        <div class="opacity-medium gradient-black"></div>
-                        <div class="container h-100">
-                            <div class="row align-items-center h-100 justify-content-start">
-                                <div class="col-xl-10 col-lg-9 position-relative text-white">
-                                    <span class="fs-15 d-block mb-15px ls-4px text-uppercase" data-anime='{ "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "delay": 200 }'>Transport Services Limited</span>
-                                    <div class="alt-font fs-60 sm-fs-50 fw-600 xs-fs-40 mb-10px w-80 lg-w-100 md-w-100 sm-w-100 sm-mb-35px anime-text ls-minus-2px" data-fancy-text='{ "opacity": [0, 1], "translateY": [50, 0], "string": ["We are driven by our vision to transform mobility  in Africa.."], "duration": 500, "delay": 200, "speed": 10, "easing": "easeOutQuad" }'></div>  
-                                    <!-- <div style=""><span class="fs-18 w-60 md-w-100 mb-25px fw-300 d-inline-block" data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>TSL currently operates out of five (5) locations in the Western & Eastern regions of Nigeria, providing regional logistics in the oil & gas, mining & construction, FMCG & agricultural sectors.</span></div> -->
-                                    <a href="<?php echo base_url(); ?>/home" class="btn btn-large btn-primary btn-switch-text btn-box-shadow fw-400">
-                                        <span> 
-                                            <span class="btn-double-text" data-text="Explore services">Get Started</span> 
-                                            <span><i class="feather icon-feather-arrow-right"></i></span>
-                                        </span>
-                                    </a>  
-                                </div>
-                            </div> 
-                        </div> 
-                    </div>                    
-                    <div class="swiper-slide">
-                        <div class="position-absolute start-0 top-0px w-100 h-100 cover-background" style="background-image:url('<?php echo base_url(); ?>/assets/img/TSL-Logistics.jpg');" data-anime='{ "translateY": [0, 0], "opacity": [1,1], "scale": [1,1.1], "duration": 7000, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'></div>
+                        <div class="position-absolute start-0 top-0px w-100 h-100 cover-background" style="background-image:url('<?php echo base_url(); ?>/assets/img/tsl2.jpg');" data-anime='{ "translateY": [0, 0], "opacity": [1,1], "scale": [1,1.1], "duration": 7000, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'></div>
                         <div class="opacity-medium gradient-black"></div>
                         <div class="container h-100">
                             <div class="row align-items-center h-100 justify-content-start">
@@ -57,7 +38,26 @@
                                 </div>
                             </div> 
                         </div> 
-                    </div>                    
+                    </div>  
+                     <div class="swiper-slide">
+                        <div class="position-absolute start-0 top-0px w-100 h-100 cover-background" style="background-image:url('<?php echo base_url(); ?>/assets/img/4s.webp');" data-anime='{ "translateY": [0, 0], "opacity": [1,1], "scale": [1,1.1], "duration": 7000, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'></div>
+                        <div class="opacity-medium gradient-black"></div>
+                        <div class="container h-100">
+                            <div class="row align-items-center h-100 justify-content-start">
+                                <div class="col-xl-10 col-lg-9 position-relative text-white">
+                                    <span class="fs-15 d-block mb-15px ls-4px text-uppercase" data-anime='{ "opacity": [0, 1], "easing": "easeOutCubic", "duration": 500, "delay": 200 }'>Transport Services Limited</span>
+                                    <div class="alt-font fs-60 sm-fs-50 fw-600 xs-fs-40 mb-10px w-80 lg-w-100 md-w-100 sm-w-100 sm-mb-35px anime-text ls-minus-2px" data-fancy-text='{ "opacity": [0, 1], "translateY": [50, 0], "string": ["We are driven by our vision to transform mobility  in Africa.."], "duration": 500, "delay": 200, "speed": 10, "easing": "easeOutQuad" }'></div>  
+                                    <!-- <div style=""><span class="fs-18 w-60 md-w-100 mb-25px fw-300 d-inline-block" data-anime='{ "el": "lines", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>TSL currently operates out of five (5) locations in the Western & Eastern regions of Nigeria, providing regional logistics in the oil & gas, mining & construction, FMCG & agricultural sectors.</span></div> -->
+                                    <a href="<?php echo base_url(); ?>/home" class="btn btn-large btn-primary btn-switch-text btn-box-shadow fw-400">
+                                        <span> 
+                                            <span class="btn-double-text" data-text="Explore services">Get Started</span> 
+                                            <span><i class="feather icon-feather-arrow-right"></i></span>
+                                        </span>
+                                    </a>  
+                                </div>
+                            </div> 
+                        </div> 
+                    </div>                   
                                        
                  
                 </div>
@@ -81,21 +81,19 @@
                         <span class="fs-15 mb-5px text-dark fw-500 ls-2px">Discover the range of companies that make up <br/> our group.</span>
                     </div>
                 </div>
-                <div class="row g-0 justify-content-center border-radius-6px overflow-hidden mb-8" data-anime='{ "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                 <div class="row g-0 justify-content-center border-radius-6px overflow-hidden mb-8 sm-mb-0" data-anime='{ "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                    <div class="col-lg-7 md-h-400px sm-h-300px text-center">
                         <div class="swiper h-100 swiper-pagination-style-3 magic-cursor" data-slider-options='{ "slidesPerView": 1, "spaceBetween": 10, "loop": true, "pagination": { "el": ".slider-four-slide-pagination-1", "clickable": true }, "autoplay": { "delay": 10000, "disableOnInteraction": false }, "navigation": { "nextEl": ".slider-one-slide-next-1", "prevEl": ".slider-one-slide-prev-1" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1400": { "slidesPerView": 1 }, "1200": { "slidesPerView": 1 }, "992": { "slidesPerView": 1 }, "768": { "slidesPerView": 1 } }, "effect": "slide" }'>
                             <div class="swiper-wrapper">
-                                <div class="swiper-slide cover-background" style="background-image: url(<?php echo base_url(); ?>/assets/img/tsl1.jpeg)"></div>
+                                <div class="swiper-slide cover-background" style="background-image: url(<?php echo base_url(); ?>/assets/img/tsl3.png)"></div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-5 bg-white">
                         <div class="pt-13 pb-12 ps-15 pe-15 lg-ps-9 lg-pe-9 lg-pt-12 last-paragraph-no-margin">
-                            <a href="<?php echo base_url(); ?>/home"><h3 class="alt-font fs-24 fw-400 text-primary mb-20px ls-minus-1px d-inline-block">Transport Services Limited</h3></a>
-                            <p class="fs-15">Transport Services Limited is a leading provider of integrated mobility and haulage solutions, delivering seamless end-to-end transportation of people, goods, and raw materials from 
-                               source to final destination; leveraging skilled professionals, strategic partnerships, modern fleet assets, and advanced mobility and supply chain systems, 
-                               the company ensures efficient, reliable, and sustainable logistics delivery while driving innovation and operational excellence to enable smarter, more connected supply chains across Africa.</p>
-                            <a class="text-primary fw-500" href="<?php echo base_url(); ?>/home">Get Started <i class="feather icon-feather-arrow-right"></i></a>
+                            <a href="https://tml.tsllimited.com/"><h3 class="alt-font fs-24 fw-400 text-primary mb-20px ls-minus-1px d-inline-block">TSL Metroline Limited</h3></a>
+                            <p>TSL Metroline Limited (TML) is a licensed Bus Operating Company committed to transforming urban transit. With a focus on delivering modern, efficient, and reliable bus services.</p>
+                            <a class="text-primary fw-500" href="https://tml.tsllimited.com/">Get Started <i class="feather icon-feather-arrow-right"></i></a>
                         </div>                       
                     </div>
                 </div>
@@ -118,19 +116,22 @@
                         </div>                       
                     </div>
                 </div>
-                <div class="row g-0 justify-content-center border-radius-6px overflow-hidden mb-8 sm-mb-0" data-anime='{ "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+              
+                 <div class="row g-0 justify-content-center border-radius-6px overflow-hidden mb-8" data-anime='{ "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                    <div class="col-lg-7 md-h-400px sm-h-300px text-center">
                         <div class="swiper h-100 swiper-pagination-style-3 magic-cursor" data-slider-options='{ "slidesPerView": 1, "spaceBetween": 10, "loop": true, "pagination": { "el": ".slider-four-slide-pagination-1", "clickable": true }, "autoplay": { "delay": 10000, "disableOnInteraction": false }, "navigation": { "nextEl": ".slider-one-slide-next-1", "prevEl": ".slider-one-slide-prev-1" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1400": { "slidesPerView": 1 }, "1200": { "slidesPerView": 1 }, "992": { "slidesPerView": 1 }, "768": { "slidesPerView": 1 } }, "effect": "slide" }'>
                             <div class="swiper-wrapper">
-                                <div class="swiper-slide cover-background" style="background-image: url(<?php echo base_url(); ?>/assets/img/tsl3.png)"></div>
+                                <div class="swiper-slide cover-background" style="background-image: url(<?php echo base_url(); ?>/assets/img/tsl1.jpeg)"></div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-5 bg-white">
                         <div class="pt-13 pb-12 ps-15 pe-15 lg-ps-9 lg-pe-9 lg-pt-12 last-paragraph-no-margin">
-                            <a href="https://tml.tsllimited.com/"><h3 class="alt-font fs-24 fw-400 text-primary mb-20px ls-minus-1px d-inline-block">TSL Metroline Limited</h3></a>
-                            <p>TSL Metroline Limited (TML) is a licensed Bus Operating Company committed to transforming urban transit. With a focus on delivering modern, efficient, and reliable bus services.</p>
-                            <a class="text-primary fw-500" href="https://tml.tsllimited.com/">Get Started <i class="feather icon-feather-arrow-right"></i></a>
+                            <a href="<?php echo base_url(); ?>/home"><h3 class="alt-font fs-24 fw-400 text-primary mb-20px ls-minus-1px d-inline-block">Transport Services Limited</h3></a>
+                            <p class="fs-15">Transport Services Limited is a leading provider of integrated mobility and haulage solutions, delivering seamless end-to-end transportation of people, goods, and raw materials from 
+                               source to final destination; leveraging skilled professionals, strategic partnerships, modern fleet assets, and advanced mobility and supply chain systems, 
+                               the company ensures efficient, reliable, and sustainable logistics delivery while driving innovation and operational excellence to enable smarter, more connected supply chains across Africa.</p>
+                            <a class="text-primary fw-500" href="<?php echo base_url(); ?>/home">Get Started <i class="feather icon-feather-arrow-right"></i></a>
                         </div>                       
                     </div>
                 </div>

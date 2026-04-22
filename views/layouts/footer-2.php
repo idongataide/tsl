@@ -15,6 +15,22 @@
                        <span class="fs-18 text-center d-block text-white fw-500 mb-10px">Our Companies</span>
                       <div class="row justify-content-center sm-pt-10px text-sm-start text-center">
 
+                        
+                          <div class="col-lg-4 col-md-6 col-sm-6 order-sm-4">                            
+                             <a href="https://tml.tsllimited.com/">
+                              <span class="fs-16 d-block text-pale-red fw-500 mb-10px">TSL Metroline Limited</span>
+                            </a>                                  <a href="#" class="fs-16 d-block mb-10px">25a Olumoroti Jaiyesimi, Gbagada Estate Phase 2, Gbagada, Lagos</a>
+                                <a href="#" class="fs-16 d-block mb-10px">Email: customerservice@tsllimited.com</a>
+                                <a href="#" class="fs-16 d-block mb-10px">Phone: +2348002255875</a>                        
+                        </div>
+                        <div class="col-lg-4 col-md-6  xs-mb-30px">
+                            <a href="https://tsllog.tsllogisticsltd.com/">
+                              <span class="fs-16 d-block text-pale-red fw-500 mb-10px">TSL Logistics Limited</span>
+                            </a>                            <a href="#" class="fs-16 d-block mb-10px">14A/14B, Adedeji Adekola Close, Off Freedom Way. Lekki Phase 1 , Lagos</a>
+                            <a href="#" class="fs-16 d-block mb-10px">Email: info@tsllogisticsltd.com</a>
+                            <a href="#" class="fs-16 d-block mb-10px">Phone: +2347074785786; +2347074785787; +2347074785788</a>                        
+                        </div> 
+                        
                         <div class="col-lg-4 col-md-6 col-sm-5 md-mb-30px">
                             <a href="https://tsllimited.com/home">
                               <span class="fs-16 d-block text-pale-red fw-500 mb-10px">Transport Services Limited</span>
@@ -23,20 +39,7 @@
                             <a href="#" class="fs-16 d-block mb-10px">Email: customerservice@tsllimited.com</a>
                             <a href="#" class="fs-16 d-block mb-10px">Phone: +2348002255875</a>
                         </div>
-                        <div class="col-lg-4 col-md-6  xs-mb-30px">
-                            <a href="https://tsllog.tsllogisticsltd.com/">
-                              <span class="fs-16 d-block text-pale-red fw-500 mb-10px">TSL Logistics Limited</span>
-                            </a>                            <a href="#" class="fs-16 d-block mb-10px">14A/14B, Adedeji Adekola Close, Off Freedom Way. Lekki Phase 1 , Lagos</a>
-                            <a href="#" class="fs-16 d-block mb-10px">Email: info@tsllogisticsltd.com</a>
-                            <a href="#" class="fs-16 d-block mb-10px">Phone: +2347074785786; +2347074785787; +2347074785788</a>                        
-                        </div>                    
-                        <div class="col-lg-4 col-md-6 col-sm-6 order-sm-4">                            
-                             <a href="https://tml.tsllimited.com/">
-                              <span class="fs-16 d-block text-pale-red fw-500 mb-10px">TSL Metroline Limited</span>
-                            </a>                                  <a href="#" class="fs-16 d-block mb-10px">25a Olumoroti Jaiyesimi, Gbagada Estate Phase 2, Gbagada, Lagos</a>
-                                <a href="#" class="fs-16 d-block mb-10px">Email: customerservice@tsllimited.com</a>
-                                <a href="#" class="fs-16 d-block mb-10px">Phone: +2348002255875</a>                        
-                            </div>
+                      
                         </div>
                       </div>
                     <!-- end footer column -->
