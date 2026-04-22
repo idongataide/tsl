@@ -56,10 +56,10 @@
                                     <a href="<?php echo base_url(); ?>/" class="nav-link <?php echo $menu_active === 'index' ? 'active' : ''; ?>">Home</a>
                                 </li>      -->
 
-                                <li class="nav-item"><a href="https://tsllog.tsllogisticsltd.com/" class="nav-link">TSL Logistics Limited</a></li> 
-                                <li class="nav-item"><a href="https://tml.tsllimited.com/" class="nav-link">TSL Metroline Limited</a></li>
-                                <li class="nav-item">
-                                    <a href="<?php echo base_url(); ?>/home" class="nav-link">
+                                <li class="nav-item"><a href="https://tsllog.tsllogisticsltd.com/" class="nav-link fw-600">TSL Logistics Limited</a></li> 
+                                <li class="nav-item"><a href="https://tml.tsllimited.com/" class="nav-link fw-600">TSL Metroline Limited</a></li>
+                                <li class="nav-item ">
+                                    <a href="<?php echo base_url(); ?>/home" class="nav-link fw-600">
                                         Transport Services Limited
                                     </a>
                                 </li>
