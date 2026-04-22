@@ -28,8 +28,9 @@
                         <div class="col-lg-4 col-md-6  xs-mb-30px">
                             <a href="https://tsllog.tsllogisticsltd.com/">
                               <span class="fs-16 d-block text-pale-red fw-500 mb-10px">TSL Logistics Limited</span>
-                            </a>                            <a href="#" class="fs-16 d-block mb-10px">14A/14B, Adedeji Adekola Close, Off Freedom Way. Lekki Phase 1 , Lagos</a>
-                            <a href="mailto:info@tsllogisticsltd.com" class="fs-16 d-block mb-10px">Email: info@tsllogisticsltd.com</a>
+                            </a>                            
+                            <a href="#" class="fs-16 d-block mb-10px">14A/14B, Adedeji Adekola Close, Off Freedom Way. Lekki Phase 1 , Lagos</a>
+                            <a href="mailto:info@tsllogisticsltd.com" class="fs-14 d-block mb-10px">Email: info@tsllogisticsltd.com</a>
                             <a href="#" class="fs-16 d-block mb-10px">Phone: +2347074785786; +2347074785787; +2347074785788</a>                        
                         </div> 
                         
@@ -38,7 +39,7 @@
                               <span class="fs-16 d-block text-pale-red fw-500 mb-10px">Transport Services Limited</span>
                             </a>
                             <a href="#" class="fs-16 d-block mb-10px">SouthGate House, Osborne Foreshore Estate, Ikoyi, Lagos.</a>
-                            <a href="mailto:customerservice@tsllimited.com" class="fs-16 d-block mb-10px">Email: customerservice@tsllimited.com</a>
+                            <a href="mailto:customerservice@tsllimited.com" class="fs-14 d-block mb-10px">Email: customerservice@tsllimited.com</a>
                             <a href="#" class="fs-16 d-block mb-10px">Phone: +2348002255875</a>
                         </div>
                       
@@ -53,7 +54,7 @@
                         <div class="divider-style-03 divider-style-03-01 border-color-transparent-white-light"></div>
                     </div>
                   
-                    <div class="col-lg-12 pt-25px pb-25px md-pt-0 fs-16 order-2 order-lg-1 text-center text-lg-center last-paragraph-no-margin"><p>© <?php date('Y')?> All right reserved </p></div>
+                        <div class="col-lg-12 pt-25px pb-25px md-pt-0 fs-16 order-2 order-lg-1 text-center text-lg-center last-paragraph-no-margin"><p>© <?= date('Y')?> All right reserved </p></div>
                     
                 </div>
             </div>

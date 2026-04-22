@@ -58,7 +58,7 @@
                     </div>
                     <!-- end divider -->
                     <!-- start copyright -->
-                    <div class="col-lg-5 pt-25px pb-25px md-pt-0 fs-16 order-2 order-lg-1 text-center text-lg-start last-paragraph-no-margin"><p>© <?php date('Y')?> All right reserved </p></div>
+                    <div class="col-lg-5 pt-25px pb-25px md-pt-0 fs-16 order-2 order-lg-1 text-center text-lg-start last-paragraph-no-margin"><p>© <?= date('Y')?> All right reserved </p></div>
                     <!-- end copyright -->
                     <!-- start footer menu -->
                     <div class="col-lg-7 pt-25px pb-25px md-pb-5px fs-16 order-1 order-lg-2 text-center text-lg-end">
